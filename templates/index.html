@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Candidate Recommender</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background: #f4f4f4; }
+        .container { width: 60%; margin: auto; overflow: hidden; background: #fff; padding: 20px; box-shadow: 0 0 10px #ccc; }
+        label { display: block; margin-bottom: 5px; }
+        input, select, button { width: 100%; padding: 10px; margin-bottom: 10px; }
+        button { background: #28a745; color: #fff; border: none; cursor: pointer; }
+        button:hover { background: #218838; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h2>Candidate Recommender</h2>
+    <form action="/recommend" method="POST">
+        <label for="Age">Age:</label>
+        <input type="number" id="age" name="Age" required>
+
+        <label for="Gender">Gender:</label>
+        <select id="Gender" name="Gender" required>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select>
+
+        <label for="EducationLevel">EducationLevel:</label>
+        <select id="EducationLevel" name="EducationLevel" required>
+            <option value="Bachelor's (Type 1)	">Bachelors Type 1</option>
+            <option value="Bachelor's (Type 2)	">Bachelors Type 2</option>
+            <option value="Master's">Masters</option>
+            <option value="PhD">PhD</option>
+        </select>
+
+        <label for="ExperienceYears">ExperienceYears:</label>
+        <input type="number" id="ExperienceYears" name="ExperienceYears" required>
+
+        <label for="PreviousCompanies">Previous Companies:</label>
+        <input type="number" id="PreviousCompanies" name="PreviousCompanies" required>
+
+        <label for="DistanceFromCompany">Distance From Company (km):</label>
+        <input type="number" id="DistanceFromCompany" name="DistanceFromCompany" required>
+
+        <label for="InterviewScore">Interview Score:</label>
+        <input type="number" id="InterviewScore" name="InterviewScore" required>
+
+        <label for="SkillScore">Skill Score:</label>
+        <input type="number" id="SkillScore" name="SkillScore" required>
+
+        <label for="PersonalityScore">Personality Score:</label>
+        <input type="number" id="PersonalityScore" name="PersonalityScore" required>
+
+        <label for="RecruitmentStrategy">Recruitment Strategy:</label>
+        <select id="RecruitmentStrategy" name="RecruitmentStrategy" required>
+            <option value="Aggressive">Aggressive</option>
+            <option value="Moderate">Moderate</option>
+            <option value="Conservative">Conservative</option>
+        </select>
+
+        <label for="HiringDecision">Hiring Decision:</label>
+        <select id="HiringDecision" name="HiringDecision" required>
+            <option value="1">Hired</option>
+            <option value="0">Not Hired</option>
+        </select>
+
+        <button type="submit">Recommend Candidates</button>
+    </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,1501 @@
+Age,Gender,EducationLevel,ExperienceYears,PreviousCompanies,DistanceFromCompany,InterviewScore,SkillScore,PersonalityScore,RecruitmentStrategy,HiringDecision
+26,Female,Bachelor's (Type 2),0,3,27,48,78,91,Aggressive,1
+39,Female,PhD,12,3,26,35,68,80,Moderate,1
+48,Male,Bachelor's (Type 2),3,2,10,20,67,13,Moderate,0
+34,Female,Bachelor's (Type 2),5,2,6,36,27,70,Conservative,0
+30,Male,Bachelor's (Type 1),6,1,43,23,52,85,Moderate,0
+27,Male,Master's,14,4,32,54,50,50,Aggressive,1
+48,Male,Bachelor's (Type 2),6,1,17,24,52,64,Conservative,0
+40,Male,PhD,13,3,11,6,3,92,Conservative,0
+26,Female,Master's,6,5,29,80,78,51,Aggressive,1
+45,Female,Bachelor's (Type 2),2,5,30,92,16,94,Conservative,0
+38,Female,Bachelor's (Type 1),15,2,11,93,66,29,Moderate,0
+42,Male,Master's,5,5,44,70,73,56,Moderate,0
+30,Male,Master's,12,5,5,96,46,78,Conservative,1
+30,Male,Bachelor's (Type 1),7,5,19,70,55,81,Moderate,0
+43,Female,Bachelor's (Type 2),3,3,35,23,22,98,Aggressive,0
+40,Male,Master's,12,5,15,10,17,29,Moderate,0
+23,Female,Bachelor's (Type 1),7,5,42,72,0,97,Moderate,0
+27,Female,PhD,1,5,38,11,34,41,Aggressive,0
+43,Female,Bachelor's (Type 2),14,1,40,34,63,10,Moderate,0
+22,Female,Bachelor's (Type 1),9,3,7,62,57,26,Moderate,0
+41,Female,Master's,8,2,8,67,94,23,Moderate,0
+40,Female,Bachelor's (Type 2),8,1,15,99,58,98,Moderate,1
+21,Male,Bachelor's (Type 2),7,4,27,91,0,38,Conservative,0
+43,Male,Bachelor's (Type 1),9,3,38,56,2,71,Moderate,0
+31,Female,Bachelor's (Type 1),13,3,43,12,66,17,Moderate,0
+49,Female,Bachelor's (Type 2),12,4,36,22,36,76,Aggressive,1
+25,Male,Bachelor's (Type 2),9,4,47,82,82,44,Moderate,0
+21,Female,Bachelor's (Type 2),0,4,38,100,28,87,Conservative,0
+47,Female,Master's,1,2,16,38,88,86,Moderate,0
+40,Male,Bachelor's (Type 2),5,5,14,87,32,11,Moderate,0
+20,Female,Bachelor's (Type 1),9,3,36,79,99,48,Moderate,0
+31,Female,Bachelor's (Type 2),4,5,11,96,60,93,Moderate,0
+45,Female,PhD,11,5,6,11,92,30,Aggressive,1
+41,Male,Master's,13,4,28,33,89,91,Conservative,1
+48,Male,Bachelor's (Type 2),8,2,42,70,3,21,Aggressive,0
+31,Male,Bachelor's (Type 2),4,1,6,74,13,43,Moderate,0
+44,Female,Bachelor's (Type 2),1,2,41,30,90,91,Moderate,0
+36,Female,Master's,9,5,42,92,32,63,Moderate,1
+46,Male,Master's,3,2,25,61,21,76,Aggressive,1
+46,Female,Bachelor's (Type 2),8,4,4,12,47,24,Moderate,0
+50,Female,Master's,0,1,10,30,2,50,Aggressive,0
+29,Female,Master's,10,4,36,1,86,6,Aggressive,1
+47,Female,Bachelor's (Type 1),0,1,37,14,84,5,Moderate,0
+47,Female,Bachelor's (Type 2),11,5,46,56,22,23,Moderate,0
+35,Male,Bachelor's (Type 1),6,1,30,74,67,18,Aggressive,1
+34,Female,Bachelor's (Type 2),10,1,7,33,20,82,Aggressive,1
+49,Male,Master's,2,1,7,67,100,99,Conservative,0
+49,Female,Bachelor's (Type 2),9,2,37,74,42,8,Conservative,0
+34,Male,Bachelor's (Type 2),1,2,10,28,94,35,Aggressive,0
+49,Female,Bachelor's (Type 1),8,5,17,65,84,39,Moderate,0
+38,Male,Bachelor's (Type 2),2,1,25,15,25,92,Moderate,0
+31,Female,Bachelor's (Type 2),15,3,2,38,40,23,Moderate,0
+42,Male,Bachelor's (Type 2),1,5,13,76,98,47,Conservative,0
+39,Female,Bachelor's (Type 2),11,1,21,36,37,62,Aggressive,1
+44,Male,Bachelor's (Type 2),7,1,15,80,87,68,Moderate,1
+22,Female,Bachelor's (Type 2),9,2,8,20,10,52,Moderate,0
+24,Male,Bachelor's (Type 1),5,5,37,43,28,53,Moderate,0
+38,Male,Bachelor's (Type 1),5,1,42,18,59,41,Moderate,0
+26,Female,Bachelor's (Type 2),9,1,14,70,66,44,Conservative,0
+40,Female,Bachelor's (Type 2),10,5,40,7,64,89,Aggressive,1
+28,Male,Bachelor's (Type 2),6,3,20,76,60,13,Aggressive,1
+26,Female,Bachelor's (Type 2),6,5,26,100,18,28,Aggressive,1
+37,Male,Bachelor's (Type 2),10,5,44,65,45,5,Conservative,0
+23,Male,Master's,12,3,38,40,48,6,Moderate,0
+44,Male,Bachelor's (Type 1),14,5,41,74,21,36,Moderate,0
+47,Female,Bachelor's (Type 2),5,1,8,87,77,52,Aggressive,1
+33,Male,Master's,3,5,4,69,56,17,Conservative,0
+37,Male,Bachelor's (Type 2),10,3,46,60,13,86,Conservative,0
+45,Female,Bachelor's (Type 2),8,4,20,25,43,37,Moderate,0
+28,Female,PhD,5,5,15,70,15,58,Moderate,0
+45,Female,Master's,3,2,37,82,96,0,Aggressive,1
+40,Female,Bachelor's (Type 2),11,1,43,69,76,67,Moderate,0
+21,Male,Bachelor's (Type 2),2,1,44,28,11,43,Moderate,0
+39,Male,Bachelor's (Type 2),3,2,17,65,54,46,Aggressive,0
+47,Male,Bachelor's (Type 2),2,2,44,18,50,34,Moderate,0
+34,Male,Bachelor's (Type 2),14,5,3,67,38,86,Aggressive,1
+47,Female,Bachelor's (Type 2),1,2,3,57,32,90,Moderate,0
+26,Male,Bachelor's (Type 2),13,4,32,69,32,59,Moderate,0
+31,Male,Bachelor's (Type 2),4,3,4,56,28,89,Aggressive,0
+48,Female,Master's,1,2,17,36,68,51,Moderate,0
+27,Male,Bachelor's (Type 2),5,2,35,60,69,7,Moderate,0
+34,Male,Bachelor's (Type 1),2,4,18,91,30,79,Aggressive,1
+22,Male,Bachelor's (Type 2),5,1,10,29,79,40,Conservative,0
+33,Male,Bachelor's (Type 2),14,1,15,70,30,2,Aggressive,0
+36,Male,Bachelor's (Type 2),10,5,24,72,88,95,Moderate,1
+23,Male,Bachelor's (Type 2),9,4,25,24,45,68,Aggressive,1
+37,Female,Bachelor's (Type 2),8,3,40,96,96,83,Aggressive,1
+27,Female,Bachelor's (Type 2),0,3,39,64,76,13,Aggressive,0
+23,Male,Bachelor's (Type 1),15,4,24,5,51,95,Aggressive,1
+21,Male,Bachelor's (Type 1),15,3,43,17,9,25,Moderate,0
+49,Female,Bachelor's (Type 2),5,1,7,9,87,69,Aggressive,1
+25,Male,Bachelor's (Type 2),8,3,14,91,73,57,Moderate,0
+41,Male,PhD,10,3,42,10,40,99,Aggressive,1
+29,Male,Bachelor's (Type 2),3,4,20,96,94,39,Aggressive,1
+23,Female,Bachelor's (Type 2),10,4,50,64,76,50,Moderate,0
+41,Male,Bachelor's (Type 2),11,3,24,76,2,4,Conservative,0
+48,Female,Bachelor's (Type 1),1,2,41,100,58,76,Moderate,0
+50,Male,PhD,12,4,21,83,51,31,Moderate,1
+37,Female,Bachelor's (Type 2),3,5,22,64,33,79,Aggressive,0
+45,Female,Master's,0,5,20,51,48,0,Conservative,0
+31,Male,Bachelor's (Type 1),2,1,37,66,27,76,Aggressive,0
+21,Female,Bachelor's (Type 2),9,3,28,81,82,53,Aggressive,1
+29,Male,Bachelor's (Type 2),8,2,48,77,86,10,Moderate,0
+49,Female,Master's,9,1,14,30,95,52,Moderate,0
+23,Male,Bachelor's (Type 1),4,3,6,90,12,7,Conservative,0
+33,Male,Bachelor's (Type 2),14,4,21,16,96,24,Aggressive,1
+50,Female,PhD,10,5,32,54,97,39,Conservative,0
+35,Male,Bachelor's (Type 2),5,2,44,92,96,31,Moderate,0
+34,Male,Bachelor's (Type 2),2,5,18,35,68,87,Moderate,0
+27,Female,Bachelor's (Type 1),15,4,34,100,66,27,Aggressive,1
+33,Male,PhD,4,3,19,25,60,77,Aggressive,1
+42,Male,Bachelor's (Type 1),10,4,32,52,59,2,Conservative,0
+47,Female,Master's,7,4,45,16,70,99,Moderate,1
+44,Female,Master's,5,5,13,85,23,90,Moderate,0
+49,Male,Bachelor's (Type 2),3,2,21,24,62,83,Conservative,0
+27,Male,Bachelor's (Type 2),1,4,51,1,85,78,Aggressive,1
+40,Female,Bachelor's (Type 1),13,5,44,85,60,61,Moderate,1
+35,Female,Bachelor's (Type 2),8,2,29,4,22,26,Moderate,0
+32,Male,Master's,12,3,27,3,29,44,Aggressive,1
+37,Female,Master's,11,3,15,35,59,91,Aggressive,1
+34,Male,Bachelor's (Type 2),0,1,27,5,17,24,Moderate,0
+40,Male,Bachelor's (Type 2),0,5,43,20,95,60,Moderate,0
+43,Male,Bachelor's (Type 1),12,2,35,76,55,43,Moderate,0
+45,Male,Bachelor's (Type 1),3,4,16,100,52,96,Aggressive,1
+44,Male,Bachelor's (Type 1),6,3,11,88,6,45,Conservative,0
+47,Female,Bachelor's (Type 2),0,2,14,25,96,13,Aggressive,0
+47,Female,Bachelor's (Type 2),8,5,9,54,68,7,Moderate,0
+47,Female,Bachelor's (Type 2),3,1,6,38,91,47,Moderate,0
+32,Female,Bachelor's (Type 2),2,3,22,83,71,13,Aggressive,1
+28,Male,Bachelor's (Type 2),0,2,7,32,78,64,Aggressive,1
+48,Male,Bachelor's (Type 2),9,2,10,13,51,79,Moderate,0
+34,Male,Master's,3,2,28,55,3,81,Conservative,0
+32,Male,Bachelor's (Type 2),8,5,9,99,33,6,Aggressive,1
+20,Female,PhD,12,5,4,80,68,78,Moderate,1
+44,Male,Master's,13,5,17,20,32,87,Moderate,0
+26,Male,Bachelor's (Type 1),9,4,12,45,68,48,Aggressive,1
+28,Female,Master's,15,2,27,15,37,54,Moderate,0
+43,Female,Bachelor's (Type 2),15,3,6,15,97,12,Conservative,0
+20,Female,Bachelor's (Type 2),5,5,39,83,25,72,Moderate,0
+31,Female,Bachelor's (Type 2),15,5,46,28,0,55,Conservative,0
+27,Male,Bachelor's (Type 2),5,2,38,91,3,55,Aggressive,0
+43,Male,Bachelor's (Type 2),0,5,28,7,38,14,Moderate,0
+50,Female,Bachelor's (Type 2),9,4,44,87,53,56,Moderate,0
+30,Male,Bachelor's (Type 2),1,4,36,2,89,57,Moderate,0
+38,Male,Bachelor's (Type 2),10,5,2,88,32,34,Moderate,0
+36,Male,Bachelor's (Type 2),5,2,21,18,32,87,Aggressive,0
+27,Female,Master's,1,2,44,96,71,96,Moderate,1
+22,Male,Bachelor's (Type 1),2,2,18,65,19,15,Moderate,0
+22,Female,Bachelor's (Type 2),3,1,3,78,15,7,Aggressive,0
+20,Male,Master's,10,5,38,85,20,92,Conservative,1
+46,Male,Bachelor's (Type 2),4,2,41,73,44,86,Moderate,0
+24,Male,Bachelor's (Type 1),14,4,9,81,89,44,Moderate,0
+29,Female,Bachelor's (Type 1),8,3,28,21,86,94,Aggressive,1
+26,Male,Bachelor's (Type 2),11,3,11,45,81,39,Aggressive,1
+45,Female,PhD,14,2,37,90,61,53,Moderate,1
+28,Female,Bachelor's (Type 2),14,3,15,12,30,13,Moderate,0
+47,Female,PhD,3,3,17,32,41,58,Moderate,0
+26,Male,Bachelor's (Type 2),12,1,43,4,11,93,Moderate,0
+28,Male,Bachelor's (Type 2),10,4,25,89,64,52,Aggressive,1
+27,Male,Bachelor's (Type 2),8,4,34,76,72,26,Moderate,0
+31,Male,Bachelor's (Type 2),10,1,21,26,2,46,Moderate,0
+21,Female,Bachelor's (Type 1),9,1,16,77,89,79,Moderate,1
+20,Female,Master's,2,3,32,23,8,5,Aggressive,0
+35,Female,Master's,7,5,9,66,50,54,Aggressive,1
+42,Male,Bachelor's (Type 2),11,3,20,62,15,96,Moderate,0
+42,Female,PhD,0,1,11,93,87,43,Aggressive,1
+49,Male,Master's,10,4,36,98,77,17,Aggressive,1
+43,Female,Bachelor's (Type 2),8,3,48,47,2,15,Aggressive,0
+24,Male,Bachelor's (Type 1),8,5,51,62,97,11,Moderate,0
+22,Male,Bachelor's (Type 2),9,3,24,77,96,19,Moderate,0
+31,Female,Bachelor's (Type 2),1,2,14,11,23,44,Moderate,0
+27,Female,Bachelor's (Type 2),3,3,23,27,72,63,Aggressive,1
+41,Female,Bachelor's (Type 1),12,1,43,43,12,58,Moderate,0
+46,Female,Master's,7,4,11,92,1,92,Aggressive,1
+22,Male,Bachelor's (Type 1),6,4,49,42,70,93,Conservative,0
+20,Female,Bachelor's (Type 2),0,1,18,16,20,89,Moderate,0
+22,Female,PhD,4,2,50,39,18,21,Moderate,0
+24,Female,Master's,6,1,43,48,88,96,Aggressive,1
+34,Male,Bachelor's (Type 2),14,3,41,84,46,46,Aggressive,1
+33,Male,Master's,15,1,17,56,21,28,Moderate,0
+22,Female,Bachelor's (Type 1),3,1,1,86,74,85,Moderate,0
+20,Male,Bachelor's (Type 1),14,2,20,83,32,44,Aggressive,1
+24,Female,Bachelor's (Type 2),15,3,16,63,31,76,Conservative,0
+45,Male,Bachelor's (Type 2),14,5,3,74,63,8,Conservative,0
+42,Male,Bachelor's (Type 2),0,5,26,56,84,23,Moderate,0
+50,Male,Bachelor's (Type 2),8,4,21,97,38,14,Conservative,0
+33,Male,Bachelor's (Type 1),13,1,33,73,83,35,Aggressive,1
+26,Female,Bachelor's (Type 2),4,4,32,73,71,12,Aggressive,1
+46,Female,Bachelor's (Type 2),10,2,7,69,41,90,Aggressive,1
+28,Female,Master's,15,5,50,99,100,43,Moderate,1
+34,Male,Bachelor's (Type 2),1,1,10,87,8,100,Aggressive,1
+34,Female,Bachelor's (Type 2),7,2,23,75,24,70,Conservative,0
+45,Female,Bachelor's (Type 2),10,2,25,42,88,71,Aggressive,1
+29,Female,Bachelor's (Type 1),12,1,42,22,96,100,Moderate,0
+47,Male,Bachelor's (Type 1),1,2,6,26,1,77,Conservative,0
+32,Male,Master's,2,1,22,57,18,75,Aggressive,1
+38,Male,Bachelor's (Type 2),13,1,32,36,19,35,Aggressive,0
+50,Female,Bachelor's (Type 1),9,3,12,5,92,60,Moderate,0
+26,Female,Bachelor's (Type 2),0,4,32,64,69,80,Aggressive,1
+36,Female,Bachelor's (Type 2),10,2,47,5,16,39,Aggressive,0
+39,Male,Bachelor's (Type 2),15,2,51,49,88,92,Aggressive,1
+48,Male,Bachelor's (Type 2),1,3,3,21,67,26,Moderate,0
+23,Female,Bachelor's (Type 2),13,3,13,87,93,0,Conservative,0
+49,Male,Bachelor's (Type 2),15,3,17,24,83,33,Conservative,0
+24,Male,Bachelor's (Type 1),6,5,21,78,2,67,Aggressive,1
+42,Male,Bachelor's (Type 2),9,5,13,89,86,87,Moderate,1
+26,Male,Master's,1,5,11,71,50,20,Moderate,0
+32,Female,Master's,5,1,49,50,81,32,Conservative,0
+34,Male,Master's,14,2,47,87,25,6,Aggressive,1
+30,Male,Bachelor's (Type 2),2,4,3,47,55,64,Moderate,0
+48,Male,Bachelor's (Type 2),3,1,18,69,99,2,Moderate,0
+23,Male,Bachelor's (Type 2),10,2,21,98,63,50,Conservative,0
+32,Female,Bachelor's (Type 2),14,2,13,64,7,78,Aggressive,1
+26,Female,Bachelor's (Type 2),12,3,32,59,80,94,Aggressive,1
+46,Male,Bachelor's (Type 1),7,3,33,45,94,53,Aggressive,1
+38,Male,Bachelor's (Type 2),13,1,44,35,36,79,Aggressive,1
+41,Male,PhD,2,3,38,57,96,73,Moderate,0
+47,Male,Bachelor's (Type 2),9,2,28,75,26,92,Moderate,0
+21,Male,Bachelor's (Type 1),5,3,34,37,44,58,Moderate,0
+29,Male,Bachelor's (Type 2),0,5,15,10,3,5,Aggressive,0
+32,Female,Master's,6,3,31,11,85,28,Aggressive,1
+49,Male,Bachelor's (Type 2),7,2,25,41,89,16,Aggressive,1
+44,Female,Bachelor's (Type 2),10,1,8,38,95,59,Aggressive,1
+40,Female,Bachelor's (Type 1),13,4,13,70,87,21,Moderate,0
+25,Male,Bachelor's (Type 2),7,3,16,10,98,23,Aggressive,1
+47,Female,Bachelor's (Type 2),2,2,47,35,36,80,Aggressive,0
+47,Female,Master's,13,4,13,51,95,84,Moderate,1
+31,Female,Bachelor's (Type 2),9,4,15,30,70,50,Moderate,0
+31,Female,Bachelor's (Type 1),0,5,19,32,32,49,Moderate,0
+39,Female,Bachelor's (Type 1),8,4,34,12,30,10,Conservative,0
+49,Female,Bachelor's (Type 1),12,2,7,17,54,55,Aggressive,1
+49,Male,Bachelor's (Type 2),5,2,49,40,11,70,Moderate,0
+30,Female,Bachelor's (Type 2),10,3,44,57,10,41,Moderate,0
+45,Female,Bachelor's (Type 2),8,3,30,55,87,38,Moderate,0
+42,Female,Bachelor's (Type 2),6,3,35,23,71,68,Conservative,0
+47,Male,Bachelor's (Type 2),0,4,2,72,31,47,Aggressive,0
+44,Female,Bachelor's (Type 1),11,4,18,30,56,56,Moderate,0
+26,Male,Bachelor's (Type 1),11,5,41,54,37,20,Aggressive,0
+49,Female,Master's,0,3,5,9,59,81,Moderate,0
+20,Male,Bachelor's (Type 2),5,1,15,59,85,98,Moderate,0
+20,Male,Bachelor's (Type 2),4,5,30,1,97,19,Conservative,0
+44,Female,Master's,8,1,14,14,18,14,Conservative,0
+46,Female,Bachelor's (Type 2),1,4,48,2,83,68,Moderate,0
+49,Male,Master's,7,5,8,42,55,76,Aggressive,1
+44,Female,Bachelor's (Type 2),10,5,41,30,13,50,Moderate,0
+39,Male,PhD,4,2,26,69,32,75,Moderate,0
+32,Male,Bachelor's (Type 1),1,4,39,66,9,61,Aggressive,0
+28,Male,Bachelor's (Type 1),12,4,17,55,79,84,Moderate,0
+22,Male,Bachelor's (Type 2),9,5,27,62,63,36,Conservative,0
+26,Male,PhD,10,4,44,74,63,5,Moderate,1
+25,Female,Master's,10,5,24,14,61,70,Moderate,1
+27,Male,Bachelor's (Type 1),11,2,19,91,67,25,Conservative,0
+46,Male,Bachelor's (Type 2),5,5,28,9,90,7,Aggressive,0
+28,Female,PhD,9,4,37,37,91,72,Aggressive,1
+49,Male,Bachelor's (Type 2),7,4,23,46,42,90,Moderate,0
+24,Female,Master's,3,5,48,56,79,3,Moderate,0
+20,Female,Master's,1,5,16,49,58,20,Moderate,0
+38,Female,Bachelor's (Type 2),11,5,25,70,51,30,Aggressive,1
+29,Male,Bachelor's (Type 2),10,3,39,14,96,20,Aggressive,1
+31,Male,Bachelor's (Type 2),4,4,35,17,18,24,Aggressive,0
+43,Male,Bachelor's (Type 2),14,4,44,81,20,14,Conservative,0
+34,Female,Master's,11,3,51,87,21,34,Moderate,0
+46,Male,Bachelor's (Type 2),1,5,22,1,8,48,Moderate,0
+41,Female,Master's,1,2,7,83,8,42,Aggressive,1
+43,Male,Bachelor's (Type 1),14,5,3,97,72,40,Aggressive,1
+28,Female,PhD,5,5,37,42,26,36,Moderate,0
+39,Male,Bachelor's (Type 2),15,3,45,25,16,56,Aggressive,0
+36,Male,Bachelor's (Type 1),10,4,12,70,43,41,Moderate,0
+49,Male,Bachelor's (Type 1),9,5,9,37,44,46,Moderate,0
+36,Female,Master's,8,4,4,93,7,91,Moderate,1
+45,Female,Bachelor's (Type 2),12,1,42,41,79,60,Moderate,0
+39,Male,Master's,3,4,17,4,17,13,Moderate,0
+31,Male,Bachelor's (Type 1),5,2,21,10,32,67,Aggressive,0
+49,Female,Bachelor's (Type 1),15,2,26,64,0,52,Moderate,0
+26,Female,Bachelor's (Type 2),6,5,43,33,75,83,Moderate,0
+21,Female,Bachelor's (Type 2),12,4,34,0,5,33,Aggressive,0
+22,Male,Bachelor's (Type 2),10,5,32,82,40,75,Conservative,0
+36,Female,PhD,5,3,10,1,54,96,Aggressive,1
+24,Male,PhD,7,2,27,84,4,23,Aggressive,1
+36,Female,PhD,3,5,37,19,58,19,Aggressive,1
+43,Male,Master's,11,3,50,60,79,68,Conservative,1
+36,Female,Bachelor's (Type 2),14,5,11,86,17,29,Moderate,0
+46,Female,Bachelor's (Type 2),0,4,1,20,48,87,Moderate,0
+36,Female,Bachelor's (Type 2),6,4,5,87,81,6,Aggressive,1
+21,Female,Master's,2,4,20,67,64,35,Moderate,0
+21,Female,Bachelor's (Type 1),13,4,42,11,82,37,Moderate,0
+47,Male,Bachelor's (Type 2),5,1,1,21,53,79,Conservative,0
+41,Female,Bachelor's (Type 1),1,3,24,19,60,51,Aggressive,0
+42,Female,Bachelor's (Type 2),8,3,17,81,7,14,Aggressive,1
+24,Female,Master's,0,4,4,0,2,45,Aggressive,0
+20,Male,Master's,5,1,24,29,24,22,Conservative,0
+20,Female,Bachelor's (Type 2),5,4,14,96,68,11,Moderate,0
+38,Male,PhD,4,1,19,23,54,92,Moderate,0
+49,Female,Bachelor's (Type 2),15,4,36,13,39,43,Moderate,0
+21,Female,Bachelor's (Type 1),12,2,27,35,82,14,Conservative,0
+40,Male,Bachelor's (Type 2),4,2,7,68,81,92,Conservative,0
+31,Female,Bachelor's (Type 2),0,5,49,74,49,48,Moderate,0
+45,Male,Bachelor's (Type 1),9,4,33,23,94,20,Aggressive,1
+25,Male,PhD,11,3,39,59,32,14,Aggressive,1
+42,Female,Bachelor's (Type 2),4,5,5,94,17,13,Conservative,0
+23,Male,Master's,1,2,3,54,56,41,Moderate,0
+42,Female,Bachelor's (Type 2),6,4,2,76,15,79,Aggressive,1
+30,Female,Bachelor's (Type 1),2,5,10,79,79,14,Moderate,0
+43,Male,Bachelor's (Type 2),12,4,22,23,37,62,Conservative,0
+46,Male,Bachelor's (Type 1),14,2,48,76,40,67,Moderate,0
+36,Male,Bachelor's (Type 2),3,5,24,23,6,26,Moderate,0
+50,Male,PhD,2,2,16,53,77,86,Conservative,0
+25,Female,Bachelor's (Type 2),2,1,29,25,52,92,Moderate,0
+43,Female,Bachelor's (Type 2),3,2,7,65,62,52,Aggressive,0
+24,Male,Bachelor's (Type 1),4,4,31,79,88,51,Conservative,0
+39,Female,Bachelor's (Type 1),0,3,29,37,31,62,Conservative,0
+21,Female,Bachelor's (Type 1),3,2,41,64,37,72,Conservative,0
+25,Female,Bachelor's (Type 2),11,3,50,74,21,52,Moderate,0
+41,Female,Bachelor's (Type 1),11,1,14,50,15,56,Aggressive,0
+30,Male,Bachelor's (Type 2),10,5,26,34,51,51,Conservative,0
+50,Male,Bachelor's (Type 2),7,5,46,42,28,42,Aggressive,0
+35,Female,Bachelor's (Type 2),9,3,40,28,15,6,Conservative,0
+35,Male,Bachelor's (Type 1),6,5,25,36,75,41,Conservative,0
+20,Male,Bachelor's (Type 2),8,2,48,80,16,3,Moderate,0
+28,Male,PhD,4,3,4,57,100,68,Conservative,0
+47,Female,Bachelor's (Type 2),12,4,48,53,63,4,Moderate,0
+46,Female,Bachelor's (Type 2),14,2,4,38,90,74,Aggressive,1
+25,Female,Bachelor's (Type 1),9,2,28,41,88,91,Moderate,0
+35,Male,PhD,3,2,46,27,12,79,Aggressive,1
+48,Female,Bachelor's (Type 2),7,4,14,28,71,40,Moderate,0
+22,Female,Bachelor's (Type 2),8,1,25,42,55,93,Aggressive,1
+39,Male,Master's,12,5,17,2,4,3,Moderate,0
+47,Female,Bachelor's (Type 2),6,3,49,9,11,1,Conservative,0
+46,Female,Bachelor's (Type 2),13,1,42,58,40,66,Conservative,0
+23,Male,Bachelor's (Type 2),15,3,36,13,2,20,Moderate,0
+38,Male,Bachelor's (Type 2),6,5,30,75,98,69,Moderate,1
+45,Male,PhD,15,4,42,46,32,42,Moderate,0
+22,Female,Master's,4,2,21,41,85,81,Conservative,0
+50,Female,Bachelor's (Type 2),3,2,23,93,49,68,Moderate,0
+38,Female,Bachelor's (Type 1),13,4,38,31,55,8,Moderate,0
+39,Male,Bachelor's (Type 1),9,1,19,31,8,83,Conservative,0
+26,Male,Bachelor's (Type 2),0,1,4,41,81,27,Moderate,0
+39,Female,Master's,9,3,5,31,49,25,Conservative,0
+28,Female,Bachelor's (Type 2),9,4,7,25,28,81,Conservative,0
+20,Male,Bachelor's (Type 2),6,1,44,0,38,82,Conservative,0
+27,Male,Master's,15,4,25,55,90,2,Aggressive,1
+26,Male,Bachelor's (Type 1),0,5,37,1,99,72,Moderate,0
+37,Male,Bachelor's (Type 2),0,2,21,80,44,99,Conservative,0
+27,Female,Bachelor's (Type 1),4,2,14,29,16,94,Moderate,0
+20,Male,PhD,12,2,18,70,55,48,Moderate,0
+30,Female,Bachelor's (Type 2),8,4,41,51,97,16,Aggressive,1
+47,Female,Bachelor's (Type 1),5,4,32,90,45,62,Aggressive,1
+44,Female,Bachelor's (Type 2),2,3,48,8,66,54,Moderate,0
+44,Male,Bachelor's (Type 2),12,2,35,21,68,22,Moderate,0
+37,Male,Master's,2,3,30,33,13,33,Moderate,0
+42,Male,Master's,6,2,32,48,66,68,Moderate,1
+50,Male,Bachelor's (Type 2),5,3,48,0,22,14,Moderate,0
+49,Female,Bachelor's (Type 1),8,3,40,72,93,46,Moderate,0
+29,Male,Bachelor's (Type 1),5,5,2,83,60,2,Moderate,0
+22,Male,Bachelor's (Type 1),4,3,28,52,22,82,Moderate,0
+26,Female,Bachelor's (Type 2),9,4,35,82,26,27,Moderate,0
+47,Male,Master's,6,3,38,99,53,2,Aggressive,1
+35,Female,Bachelor's (Type 2),0,2,12,39,9,3,Moderate,0
+45,Female,Bachelor's (Type 1),11,3,44,44,88,87,Moderate,0
+35,Female,Bachelor's (Type 2),6,1,49,67,76,30,Moderate,0
+44,Female,Master's,15,2,13,8,15,44,Moderate,0
+39,Female,Master's,2,1,45,21,40,58,Moderate,0
+47,Female,Master's,13,2,6,17,97,44,Aggressive,1
+36,Female,Bachelor's (Type 2),8,4,4,75,54,74,Conservative,1
+21,Female,Bachelor's (Type 1),14,4,7,42,100,36,Aggressive,1
+20,Male,Master's,5,4,4,38,60,64,Conservative,0
+35,Male,Bachelor's (Type 2),8,1,43,72,85,8,Moderate,0
+49,Male,Bachelor's (Type 2),12,5,4,5,80,16,Moderate,0
+31,Male,Master's,14,2,15,82,86,64,Aggressive,1
+24,Female,Master's,4,4,6,47,99,2,Aggressive,1
+24,Male,Bachelor's (Type 2),6,2,16,6,48,25,Aggressive,0
+46,Female,Bachelor's (Type 2),12,1,6,79,72,52,Aggressive,1
+42,Male,Bachelor's (Type 2),15,5,34,68,51,30,Moderate,0
+28,Male,Bachelor's (Type 2),13,1,8,15,1,25,Moderate,0
+28,Male,Bachelor's (Type 2),3,2,44,0,95,22,Moderate,0
+22,Female,Master's,14,5,42,36,49,29,Aggressive,1
+38,Male,Master's,15,5,2,82,85,9,Conservative,1
+35,Female,Master's,6,1,46,36,42,71,Moderate,0
+35,Female,Bachelor's (Type 1),12,4,2,80,76,88,Aggressive,1
+22,Male,Master's,0,2,13,63,7,63,Moderate,0
+39,Male,Master's,6,3,3,89,58,21,Aggressive,1
+43,Male,Bachelor's (Type 2),7,3,18,85,64,14,Aggressive,1
+41,Female,Master's,4,1,27,61,80,55,Moderate,0
+43,Male,Master's,1,2,41,71,11,73,Moderate,0
+20,Female,Bachelor's (Type 2),4,2,18,60,3,19,Conservative,0
+43,Female,Bachelor's (Type 2),5,1,36,32,76,46,Moderate,0
+39,Male,Bachelor's (Type 1),11,2,10,65,94,86,Conservative,0
+30,Male,Bachelor's (Type 2),1,4,39,29,40,52,Conservative,0
+36,Female,Bachelor's (Type 2),13,1,13,19,6,52,Conservative,0
+27,Female,Master's,5,4,8,59,86,0,Moderate,0
+23,Female,Bachelor's (Type 2),5,2,10,81,87,1,Aggressive,1
+25,Male,Bachelor's (Type 1),0,1,10,73,68,57,Aggressive,1
+27,Female,Bachelor's (Type 2),13,2,27,23,68,18,Moderate,0
+39,Male,Bachelor's (Type 1),0,1,43,3,80,61,Moderate,0
+49,Female,Bachelor's (Type 1),13,2,5,36,29,77,Aggressive,1
+22,Female,Bachelor's (Type 1),10,4,36,3,72,71,Moderate,0
+35,Male,Bachelor's (Type 1),15,4,34,76,5,11,Aggressive,1
+49,Female,Bachelor's (Type 1),9,2,45,88,88,25,Moderate,0
+44,Male,Bachelor's (Type 2),2,1,13,76,18,26,Aggressive,0
+22,Male,Bachelor's (Type 2),13,3,24,17,79,28,Moderate,0
+44,Female,Master's,9,4,47,87,84,14,Moderate,1
+48,Male,Bachelor's (Type 2),9,4,34,65,65,45,Aggressive,1
+37,Male,Master's,14,3,20,47,9,0,Moderate,0
+33,Female,Bachelor's (Type 1),11,2,8,32,15,59,Moderate,0
+37,Male,Bachelor's (Type 2),2,1,14,57,36,91,Aggressive,0
+21,Male,Master's,3,2,30,82,78,56,Aggressive,1
+41,Male,Bachelor's (Type 1),1,5,37,72,76,2,Moderate,0
+22,Female,Bachelor's (Type 2),8,4,7,27,76,17,Moderate,0
+35,Male,Bachelor's (Type 2),9,5,31,34,31,51,Moderate,0
+48,Female,Bachelor's (Type 2),11,4,29,9,46,59,Aggressive,0
+28,Female,Bachelor's (Type 1),10,4,27,64,71,33,Moderate,0
+23,Male,Bachelor's (Type 2),13,5,36,41,42,95,Aggressive,1
+20,Male,Bachelor's (Type 2),6,5,43,84,81,92,Conservative,1
+23,Male,Bachelor's (Type 1),6,2,17,8,35,88,Moderate,0
+20,Female,Bachelor's (Type 2),14,5,45,59,25,59,Conservative,0
+33,Male,Master's,5,2,9,14,9,25,Moderate,0
+40,Male,PhD,14,2,10,98,30,71,Moderate,1
+35,Male,Bachelor's (Type 2),2,2,14,56,96,18,Moderate,0
+39,Male,Master's,5,4,7,68,28,21,Moderate,0
+43,Male,Bachelor's (Type 2),14,4,13,21,4,92,Moderate,0
+27,Female,Bachelor's (Type 2),13,5,6,63,76,32,Moderate,0
+26,Female,Bachelor's (Type 1),11,4,42,40,0,37,Moderate,0
+22,Male,Master's,7,5,8,86,86,34,Moderate,1
+36,Male,Bachelor's (Type 2),7,4,38,70,2,66,Moderate,0
+20,Male,Bachelor's (Type 2),10,1,3,55,66,82,Conservative,0
+35,Male,Bachelor's (Type 1),12,1,48,22,70,9,Moderate,0
+31,Female,Master's,8,5,37,24,99,90,Moderate,1
+46,Male,Master's,14,4,1,90,34,14,Moderate,0
+38,Female,Master's,0,4,39,5,14,10,Moderate,0
+41,Female,Bachelor's (Type 2),13,2,27,33,66,89,Conservative,0
+42,Male,Bachelor's (Type 1),0,3,40,62,92,23,Conservative,0
+41,Female,Bachelor's (Type 2),2,5,27,8,29,76,Moderate,0
+33,Female,Bachelor's (Type 2),2,3,33,59,81,95,Moderate,0
+49,Female,Bachelor's (Type 1),9,3,40,48,74,100,Moderate,0
+25,Female,Bachelor's (Type 2),7,5,21,96,42,3,Moderate,0
+25,Male,PhD,14,4,1,50,59,12,Conservative,0
+32,Male,Master's,9,5,43,59,39,72,Aggressive,1
+38,Female,Master's,0,3,20,69,64,56,Aggressive,1
+41,Male,PhD,12,4,26,36,28,97,Aggressive,1
+27,Male,Bachelor's (Type 2),1,1,1,30,73,36,Moderate,0
+46,Male,Bachelor's (Type 2),1,5,26,97,91,47,Conservative,0
+46,Male,PhD,2,5,50,40,94,70,Aggressive,1
+21,Male,Bachelor's (Type 1),12,4,15,61,18,0,Moderate,0
+40,Female,Master's,5,1,21,92,2,59,Moderate,0
+49,Male,Bachelor's (Type 2),0,1,35,57,35,11,Moderate,0
+20,Male,Bachelor's (Type 2),1,4,42,13,42,20,Moderate,0
+47,Male,Bachelor's (Type 2),12,2,22,35,14,10,Conservative,0
+34,Male,PhD,15,5,16,35,96,43,Aggressive,1
+20,Female,Master's,14,5,48,78,40,57,Moderate,0
+24,Female,Bachelor's (Type 1),12,3,35,7,89,43,Aggressive,1
+47,Female,Master's,15,4,7,25,79,77,Moderate,1
+48,Female,Bachelor's (Type 2),0,3,4,35,35,97,Conservative,0
+35,Male,Bachelor's (Type 2),4,3,25,47,96,33,Aggressive,0
+38,Female,Bachelor's (Type 2),15,1,12,84,83,24,Aggressive,1
+23,Male,Bachelor's (Type 2),12,5,14,27,76,3,Moderate,0
+22,Male,Bachelor's (Type 2),12,3,45,67,32,63,Moderate,0
+36,Male,PhD,6,1,5,61,4,89,Moderate,0
+36,Male,Master's,15,4,37,79,100,15,Aggressive,1
+31,Male,Bachelor's (Type 2),7,3,15,85,77,9,Aggressive,1
+47,Female,Bachelor's (Type 1),9,5,39,75,90,65,Moderate,1
+49,Female,PhD,0,3,37,79,86,34,Aggressive,1
+48,Female,PhD,6,4,1,50,13,82,Conservative,0
+33,Female,Master's,12,3,26,41,67,5,Aggressive,1
+40,Male,Bachelor's (Type 1),4,5,8,100,82,18,Moderate,0
+25,Female,Bachelor's (Type 1),9,1,44,28,46,58,Aggressive,0
+22,Male,Bachelor's (Type 2),0,5,45,81,53,52,Aggressive,1
+47,Female,Bachelor's (Type 1),2,1,22,9,3,7,Moderate,0
+28,Male,Bachelor's (Type 2),6,2,23,38,93,77,Moderate,0
+24,Male,PhD,9,5,16,81,82,9,Aggressive,1
+43,Female,Bachelor's (Type 2),0,5,37,0,94,66,Aggressive,1
+48,Male,Bachelor's (Type 1),6,4,19,38,94,37,Aggressive,1
+36,Male,Bachelor's (Type 2),4,3,14,20,8,28,Moderate,0
+33,Female,Bachelor's (Type 1),0,1,23,64,52,14,Moderate,0
+40,Male,Bachelor's (Type 1),0,1,6,14,76,86,Aggressive,1
+50,Female,Bachelor's (Type 2),13,4,38,3,77,22,Moderate,0
+22,Female,Bachelor's (Type 2),0,4,2,59,59,81,Moderate,0
+47,Female,Master's,10,3,33,60,45,45,Conservative,0
+20,Male,PhD,8,3,10,19,53,82,Conservative,1
+39,Male,Bachelor's (Type 2),10,5,13,9,73,27,Moderate,0
+50,Male,Bachelor's (Type 2),12,2,33,86,94,25,Aggressive,1
+48,Female,Master's,2,3,51,33,36,9,Aggressive,0
+40,Male,Bachelor's (Type 2),14,4,40,47,22,46,Moderate,0
+42,Female,Bachelor's (Type 1),12,3,12,32,26,3,Conservative,0
+20,Female,Master's,4,1,10,97,69,54,Moderate,0
+22,Male,Bachelor's (Type 1),10,2,44,60,89,65,Moderate,0
+37,Female,Bachelor's (Type 2),15,5,23,9,65,66,Moderate,0
+44,Male,Bachelor's (Type 2),9,1,8,53,60,6,Moderate,0
+29,Male,Bachelor's (Type 2),11,1,44,83,76,54,Aggressive,1
+50,Male,Bachelor's (Type 2),15,2,42,64,50,79,Moderate,0
+41,Male,Master's,8,5,50,76,49,30,Aggressive,1
+45,Male,Bachelor's (Type 1),5,4,46,0,18,73,Aggressive,0
+22,Female,Bachelor's (Type 2),11,5,44,4,0,18,Moderate,0
+27,Female,Master's,8,3,4,79,39,27,Aggressive,1
+33,Female,Bachelor's (Type 2),7,1,6,14,31,80,Aggressive,1
+43,Male,Bachelor's (Type 1),7,3,29,27,21,27,Aggressive,0
+37,Male,Master's,0,4,28,94,92,18,Conservative,0
+34,Male,Bachelor's (Type 2),12,3,24,22,65,100,Moderate,0
+41,Female,Master's,8,5,21,16,39,86,Aggressive,1
+42,Male,Master's,5,3,23,97,37,19,Moderate,0
+21,Female,Bachelor's (Type 2),15,4,29,12,47,12,Aggressive,0
+50,Female,Bachelor's (Type 2),8,4,1,13,54,76,Moderate,0
+46,Male,PhD,2,4,14,10,74,42,Moderate,0
+29,Male,Bachelor's (Type 1),11,5,27,27,80,10,Conservative,0
+21,Female,Master's,2,4,37,41,54,47,Moderate,0
+45,Male,Bachelor's (Type 1),5,1,10,95,50,14,Conservative,0
+36,Female,Bachelor's (Type 2),8,4,28,98,59,16,Conservative,0
+27,Male,Bachelor's (Type 2),6,3,37,60,7,53,Conservative,0
+20,Male,PhD,13,3,23,63,85,49,Moderate,0
+28,Female,PhD,12,3,2,30,67,27,Moderate,0
+30,Male,Bachelor's (Type 1),2,5,23,80,74,82,Moderate,0
+41,Female,Bachelor's (Type 1),2,3,16,72,71,3,Aggressive,1
+35,Male,Master's,1,5,47,9,8,21,Aggressive,0
+26,Female,Bachelor's (Type 2),8,5,7,7,89,85,Moderate,0
+48,Female,Bachelor's (Type 1),12,4,34,20,1,100,Moderate,0
+29,Male,Bachelor's (Type 2),14,1,4,76,79,38,Conservative,0
+42,Female,Bachelor's (Type 2),2,4,23,58,94,33,Aggressive,0
+45,Male,PhD,10,4,29,49,69,96,Aggressive,1
+22,Male,Bachelor's (Type 2),4,5,16,68,84,43,Moderate,0
+37,Male,Bachelor's (Type 2),13,5,24,69,89,41,Moderate,0
+44,Female,Bachelor's (Type 2),13,3,9,29,58,39,Aggressive,1
+43,Female,Master's,8,3,16,94,18,96,Conservative,1
+32,Male,Bachelor's (Type 2),7,4,32,16,27,11,Moderate,0
+47,Male,Bachelor's (Type 2),1,2,16,74,71,1,Moderate,0
+45,Female,Bachelor's (Type 2),2,2,46,19,13,27,Conservative,0
+26,Male,Master's,15,3,32,47,23,73,Moderate,0
+44,Male,Bachelor's (Type 2),15,2,23,72,43,85,Moderate,0
+23,Female,Bachelor's (Type 1),1,3,3,1,100,80,Conservative,0
+32,Male,Bachelor's (Type 2),15,5,26,36,55,89,Aggressive,1
+39,Female,Bachelor's (Type 2),7,4,39,0,89,66,Moderate,0
+20,Male,Bachelor's (Type 1),5,1,14,3,94,70,Aggressive,1
+27,Female,Master's,5,4,41,99,50,71,Aggressive,1
+33,Male,Bachelor's (Type 2),11,3,14,53,31,83,Conservative,0
+35,Male,Master's,14,3,42,24,49,75,Moderate,0
+33,Female,Bachelor's (Type 2),8,4,5,2,40,98,Moderate,0
+31,Male,Master's,7,3,44,8,65,80,Conservative,1
+38,Female,Bachelor's (Type 1),3,2,26,85,24,91,Conservative,0
+42,Male,Bachelor's (Type 2),14,2,16,86,60,9,Conservative,0
+34,Female,PhD,11,3,14,75,65,85,Moderate,1
+47,Female,Master's,3,3,23,73,41,56,Moderate,0
+21,Female,Bachelor's (Type 2),8,2,51,33,64,96,Aggressive,1
+21,Female,Bachelor's (Type 2),0,3,12,42,35,85,Moderate,0
+42,Male,Master's,12,3,6,73,75,36,Moderate,1
+50,Male,Bachelor's (Type 2),1,4,30,93,8,76,Moderate,0
+41,Female,Master's,1,1,25,21,35,90,Moderate,0
+38,Female,Master's,12,2,27,69,91,63,Conservative,1
+44,Female,Bachelor's (Type 1),12,4,34,1,37,78,Moderate,0
+45,Male,Bachelor's (Type 1),5,1,14,93,32,85,Moderate,0
+50,Male,Bachelor's (Type 2),14,3,47,65,41,93,Moderate,0
+49,Male,Bachelor's (Type 1),3,3,23,31,60,39,Aggressive,0
+48,Male,Bachelor's (Type 2),15,4,7,15,45,100,Aggressive,1
+41,Female,PhD,12,3,38,75,85,97,Moderate,1
+45,Female,Bachelor's (Type 2),10,5,33,0,88,59,Aggressive,1
+45,Female,Master's,9,4,17,71,60,97,Moderate,1
+41,Male,Bachelor's (Type 2),12,1,32,47,17,47,Moderate,0
+36,Male,Bachelor's (Type 2),2,4,12,49,69,98,Aggressive,1
+39,Male,Bachelor's (Type 1),2,2,23,12,81,18,Aggressive,0
+29,Female,Bachelor's (Type 2),2,4,46,14,79,71,Moderate,0
+25,Female,Bachelor's (Type 2),5,3,8,52,14,32,Moderate,0
+34,Male,Bachelor's (Type 2),13,3,20,43,47,43,Moderate,0
+41,Female,Master's,15,5,42,7,71,91,Moderate,1
+30,Male,Bachelor's (Type 2),7,5,49,73,12,36,Moderate,0
+47,Male,Bachelor's (Type 2),10,5,24,45,42,88,Conservative,0
+24,Female,Bachelor's (Type 2),6,1,26,68,59,35,Moderate,0
+20,Male,Bachelor's (Type 1),13,5,30,18,56,80,Conservative,0
+27,Female,Bachelor's (Type 2),3,1,48,37,70,87,Aggressive,1
+40,Male,Bachelor's (Type 1),10,5,44,10,16,20,Moderate,0
+47,Female,Bachelor's (Type 1),11,1,10,42,49,1,Moderate,0
+31,Female,Bachelor's (Type 1),3,4,23,19,31,30,Aggressive,0
+31,Female,Bachelor's (Type 2),10,4,24,19,21,96,Aggressive,1
+24,Male,Master's,9,3,40,20,54,29,Moderate,0
+26,Male,Bachelor's (Type 2),14,1,31,81,56,75,Aggressive,1
+23,Female,Bachelor's (Type 2),10,2,34,56,12,43,Aggressive,0
+25,Female,Bachelor's (Type 2),15,3,51,49,46,11,Conservative,0
+32,Male,Bachelor's (Type 1),10,4,5,73,86,50,Conservative,0
+39,Male,Master's,13,1,12,97,61,48,Moderate,1
+49,Male,Bachelor's (Type 2),10,5,21,25,53,23,Moderate,0
+34,Female,Bachelor's (Type 2),1,2,18,29,28,23,Conservative,0
+22,Male,Bachelor's (Type 2),13,4,2,72,21,59,Moderate,0
+42,Male,Bachelor's (Type 1),15,3,6,30,64,10,Aggressive,1
+27,Female,Bachelor's (Type 2),0,1,35,41,28,12,Conservative,0
+39,Male,Bachelor's (Type 2),8,2,45,67,47,90,Moderate,0
+35,Male,Master's,11,1,27,60,4,71,Moderate,0
+32,Male,Bachelor's (Type 1),14,5,28,60,34,73,Moderate,0
+37,Female,Bachelor's (Type 2),11,3,14,69,73,71,Moderate,0
+47,Female,Bachelor's (Type 2),1,1,39,77,82,63,Conservative,0
+29,Female,Bachelor's (Type 1),12,4,39,67,100,19,Moderate,0
+49,Female,Bachelor's (Type 2),7,3,30,89,70,71,Conservative,1
+38,Female,Master's,14,4,12,16,45,72,Conservative,0
+36,Female,Master's,15,1,6,18,34,70,Moderate,0
+43,Female,Bachelor's (Type 2),8,3,4,50,44,77,Moderate,0
+50,Male,Master's,3,4,31,69,12,27,Moderate,0
+38,Male,PhD,7,5,42,62,9,1,Aggressive,1
+47,Female,Master's,8,5,44,92,65,42,Aggressive,1
+45,Male,Bachelor's (Type 1),9,1,24,74,69,7,Moderate,0
+42,Male,Master's,9,3,40,79,71,12,Moderate,1
+45,Female,Bachelor's (Type 2),4,2,48,29,99,84,Aggressive,1
+24,Male,PhD,15,3,15,24,24,91,Aggressive,1
+45,Male,Bachelor's (Type 2),12,5,21,74,43,34,Conservative,0
+40,Male,Bachelor's (Type 1),13,4,48,70,59,22,Moderate,0
+49,Male,Master's,6,2,18,25,46,45,Conservative,0
+42,Male,Bachelor's (Type 2),15,1,47,55,39,14,Moderate,0
+50,Female,PhD,9,2,50,21,6,1,Moderate,0
+28,Female,PhD,3,1,34,88,45,60,Aggressive,1
+31,Female,Bachelor's (Type 2),0,2,42,18,22,75,Moderate,0
+40,Male,Bachelor's (Type 1),2,1,38,30,82,63,Moderate,0
+20,Female,Bachelor's (Type 2),4,1,36,25,45,51,Aggressive,0
+45,Male,Bachelor's (Type 1),2,2,16,41,85,35,Moderate,0
+45,Male,Bachelor's (Type 1),15,2,4,40,12,66,Moderate,0
+20,Male,Master's,11,1,18,99,20,68,Moderate,1
+34,Male,Bachelor's (Type 2),12,5,34,22,0,66,Moderate,0
+21,Female,Bachelor's (Type 2),10,2,6,46,18,46,Moderate,0
+49,Female,PhD,6,3,2,12,59,82,Moderate,1
+41,Male,Bachelor's (Type 2),11,4,8,88,32,1,Conservative,0
+35,Female,Bachelor's (Type 2),8,1,37,65,3,43,Conservative,0
+44,Male,PhD,14,1,50,65,2,100,Conservative,0
+27,Female,Bachelor's (Type 1),11,4,50,15,90,63,Moderate,0
+32,Female,Master's,5,5,26,72,51,80,Moderate,1
+40,Male,PhD,12,4,44,27,98,77,Moderate,1
+20,Female,PhD,9,2,38,76,27,27,Aggressive,1
+35,Male,Bachelor's (Type 2),0,4,26,34,69,90,Conservative,0
+48,Female,Bachelor's (Type 2),15,1,30,40,69,53,Moderate,0
+26,Male,Bachelor's (Type 2),6,4,8,76,54,73,Aggressive,1
+50,Male,Master's,14,3,48,30,56,66,Aggressive,1
+24,Female,Master's,2,2,19,84,86,35,Conservative,0
+41,Female,Bachelor's (Type 2),4,4,23,31,96,62,Aggressive,1
+48,Male,Bachelor's (Type 2),15,1,35,53,15,24,Aggressive,0
+42,Female,Bachelor's (Type 1),9,2,18,97,23,85,Moderate,0
+22,Female,Bachelor's (Type 1),3,1,14,71,68,47,Aggressive,1
+31,Male,Master's,9,5,33,58,40,38,Conservative,0
+45,Male,Bachelor's (Type 2),4,3,2,40,76,46,Moderate,0
+35,Female,PhD,4,5,37,65,46,93,Moderate,0
+38,Male,Master's,5,3,27,95,75,20,Conservative,0
+24,Male,Bachelor's (Type 1),13,4,31,53,68,29,Moderate,0
+41,Male,Bachelor's (Type 2),9,2,33,39,100,91,Moderate,0
+44,Female,Bachelor's (Type 2),11,4,27,27,30,30,Moderate,0
+48,Female,Bachelor's (Type 2),9,3,30,36,91,25,Moderate,0
+33,Male,Master's,12,3,35,64,91,21,Moderate,0
+47,Female,Master's,12,3,39,73,29,20,Moderate,0
+24,Male,Master's,10,1,37,54,17,0,Conservative,0
+34,Female,Bachelor's (Type 2),5,2,44,3,43,36,Moderate,0
+36,Male,Bachelor's (Type 1),15,4,10,98,26,76,Conservative,0
+49,Male,Master's,7,4,21,9,98,84,Moderate,1
+33,Female,Bachelor's (Type 1),7,5,48,46,25,45,Moderate,0
+49,Male,Bachelor's (Type 2),10,3,21,74,59,8,Conservative,0
+39,Female,Bachelor's (Type 1),8,3,7,13,17,16,Aggressive,0
+24,Female,Bachelor's (Type 2),7,3,27,37,96,46,Moderate,0
+31,Male,Bachelor's (Type 1),12,4,6,11,88,84,Moderate,0
+35,Male,Bachelor's (Type 2),10,5,11,44,55,94,Moderate,0
+45,Female,PhD,1,1,51,16,30,58,Aggressive,0
+45,Male,Bachelor's (Type 1),13,2,28,79,100,53,Moderate,0
+35,Male,Bachelor's (Type 1),13,1,15,34,58,85,Moderate,0
+40,Male,Bachelor's (Type 2),11,4,51,65,1,11,Moderate,0
+26,Male,Master's,9,3,49,74,96,63,Conservative,1
+23,Male,Bachelor's (Type 2),11,2,23,40,38,5,Conservative,0
+20,Female,Bachelor's (Type 2),10,4,14,66,60,52,Moderate,0
+49,Female,Bachelor's (Type 1),14,4,43,28,62,15,Conservative,0
+49,Male,Master's,15,4,37,17,95,89,Moderate,1
+24,Male,Bachelor's (Type 2),0,2,35,19,17,4,Moderate,0
+42,Male,Master's,9,2,46,13,16,72,Moderate,0
+45,Female,PhD,1,5,35,33,97,45,Moderate,0
+29,Male,Bachelor's (Type 2),1,5,15,48,38,13,Aggressive,0
+41,Female,Master's,11,1,36,53,70,43,Moderate,0
+24,Female,Bachelor's (Type 1),2,2,16,30,53,62,Moderate,0
+23,Female,Master's,9,2,39,57,98,93,Moderate,1
+21,Male,Bachelor's (Type 2),6,2,32,41,93,51,Conservative,0
+39,Female,Master's,1,5,5,57,75,25,Moderate,0
+50,Male,Bachelor's (Type 1),13,4,27,81,34,52,Aggressive,1
+29,Female,Bachelor's (Type 1),15,3,18,29,10,28,Moderate,0
+45,Male,Bachelor's (Type 2),0,5,17,24,60,18,Moderate,0
+38,Female,Bachelor's (Type 2),15,2,31,62,43,46,Moderate,0
+45,Male,Bachelor's (Type 2),13,5,17,18,67,7,Aggressive,1
+20,Female,Bachelor's (Type 2),5,1,40,71,24,22,Moderate,0
+43,Male,Bachelor's (Type 1),8,2,5,91,47,34,Conservative,0
+24,Male,Bachelor's (Type 2),14,1,34,7,31,94,Moderate,0
+32,Male,Master's,2,2,41,94,83,52,Conservative,0
+23,Male,Bachelor's (Type 2),5,5,35,2,94,98,Conservative,0
+35,Female,Bachelor's (Type 1),2,4,26,66,3,95,Aggressive,0
+43,Female,Bachelor's (Type 2),13,3,49,85,37,57,Moderate,0
+35,Male,Bachelor's (Type 1),12,1,16,80,62,4,Moderate,0
+42,Female,PhD,0,5,2,99,46,15,Aggressive,1
+21,Male,Bachelor's (Type 1),13,4,23,16,0,16,Moderate,0
+36,Male,Master's,12,5,3,13,2,31,Moderate,0
+47,Female,PhD,15,1,49,8,100,95,Aggressive,1
+46,Male,Master's,11,3,11,61,85,51,Conservative,0
+39,Male,Bachelor's (Type 2),4,5,40,93,61,19,Moderate,0
+43,Female,Master's,9,2,40,20,63,65,Conservative,1
+31,Male,PhD,13,4,12,75,16,83,Moderate,1
+37,Male,Bachelor's (Type 2),12,5,32,36,77,81,Conservative,0
+22,Male,Bachelor's (Type 2),10,4,3,95,61,0,Moderate,0
+47,Male,Bachelor's (Type 2),3,2,25,10,34,57,Aggressive,0
+20,Female,Bachelor's (Type 2),6,3,2,19,12,92,Moderate,0
+20,Female,Bachelor's (Type 2),5,3,47,34,34,92,Moderate,0
+48,Female,Bachelor's (Type 2),9,2,50,52,42,82,Moderate,0
+38,Male,Bachelor's (Type 2),6,4,12,46,1,43,Moderate,0
+30,Male,Bachelor's (Type 1),4,5,11,74,55,5,Aggressive,1
+24,Female,Bachelor's (Type 1),14,2,39,51,76,49,Moderate,0
+31,Male,Bachelor's (Type 2),14,1,14,7,50,71,Moderate,0
+22,Male,Bachelor's (Type 1),3,4,46,3,53,87,Moderate,0
+20,Male,Bachelor's (Type 2),15,3,30,26,15,19,Moderate,0
+20,Male,Bachelor's (Type 2),6,2,19,43,17,13,Conservative,0
+27,Female,Master's,6,3,43,39,6,4,Moderate,0
+29,Female,Bachelor's (Type 1),5,4,26,46,44,40,Moderate,0
+30,Female,Bachelor's (Type 2),7,3,47,93,35,39,Conservative,0
+31,Male,Master's,3,2,47,43,40,33,Moderate,0
+48,Female,Bachelor's (Type 2),9,4,9,47,93,79,Aggressive,1
+32,Female,Bachelor's (Type 1),4,1,1,90,41,44,Aggressive,0
+31,Male,Master's,3,2,50,84,6,70,Moderate,0
+50,Male,Master's,11,5,46,51,14,79,Aggressive,1
+33,Female,Bachelor's (Type 2),0,2,4,83,59,70,Moderate,0
+21,Female,Bachelor's (Type 2),11,4,43,67,39,26,Aggressive,0
+48,Female,PhD,7,2,24,10,82,77,Aggressive,1
+38,Female,Bachelor's (Type 2),0,1,14,76,36,77,Moderate,0
+37,Male,Bachelor's (Type 2),4,1,45,72,65,43,Conservative,0
+22,Female,Master's,14,5,11,3,54,32,Moderate,0
+42,Female,Bachelor's (Type 2),5,3,48,75,76,32,Conservative,0
+36,Male,Bachelor's (Type 2),5,4,11,72,94,43,Conservative,0
+45,Female,Bachelor's (Type 2),12,4,32,76,79,19,Aggressive,1
+27,Male,Master's,4,3,12,47,55,35,Moderate,0
+48,Male,Bachelor's (Type 2),15,1,28,25,43,6,Moderate,0
+45,Male,Bachelor's (Type 2),2,1,35,76,56,31,Conservative,0
+29,Female,Bachelor's (Type 2),14,2,11,38,5,66,Moderate,0
+45,Female,Bachelor's (Type 2),4,5,27,91,91,38,Conservative,0
+49,Male,Bachelor's (Type 2),11,5,24,57,31,92,Aggressive,1
+21,Female,Master's,7,5,5,18,73,23,Aggressive,1
+38,Female,Bachelor's (Type 2),13,2,42,87,17,85,Moderate,0
+28,Male,Bachelor's (Type 1),1,5,18,82,67,69,Moderate,0
+26,Male,Master's,15,3,30,76,72,87,Aggressive,1
+23,Female,Bachelor's (Type 1),5,2,27,76,6,86,Moderate,0
+45,Male,PhD,8,3,27,57,7,53,Aggressive,1
+40,Female,Bachelor's (Type 1),7,2,6,27,63,37,Moderate,0
+37,Female,Bachelor's (Type 2),13,5,22,65,6,73,Conservative,0
+32,Female,Bachelor's (Type 1),10,3,24,9,40,79,Conservative,0
+30,Female,PhD,7,3,38,85,39,74,Moderate,1
+48,Male,Bachelor's (Type 2),7,3,43,76,2,31,Moderate,0
+43,Male,Bachelor's (Type 1),14,2,28,57,16,44,Moderate,0
+23,Male,Bachelor's (Type 2),12,4,5,72,65,60,Aggressive,1
+44,Male,Bachelor's (Type 1),6,5,13,96,78,69,Moderate,1
+40,Female,Bachelor's (Type 1),7,3,9,13,92,87,Aggressive,1
+48,Female,PhD,12,4,7,83,51,96,Conservative,1
+44,Male,Bachelor's (Type 2),5,5,19,14,21,52,Conservative,0
+23,Female,Master's,1,5,12,95,3,50,Moderate,0
+29,Female,Bachelor's (Type 2),1,3,12,32,5,75,Moderate,0
+24,Female,Bachelor's (Type 2),7,3,4,16,37,55,Aggressive,0
+28,Male,Bachelor's (Type 1),10,2,2,23,25,26,Moderate,0
+43,Male,Bachelor's (Type 2),0,4,6,29,10,37,Moderate,0
+22,Male,Master's,5,4,10,61,89,61,Moderate,0
+36,Female,PhD,12,3,23,12,16,17,Aggressive,1
+22,Male,Bachelor's (Type 2),15,5,27,61,87,63,Conservative,0
+35,Male,Bachelor's (Type 2),5,3,8,46,91,76,Moderate,0
+23,Male,Bachelor's (Type 2),15,5,22,15,98,29,Conservative,0
+37,Male,PhD,10,5,18,65,30,48,Conservative,0
+36,Male,Bachelor's (Type 2),3,3,10,80,76,40,Conservative,0
+26,Male,Bachelor's (Type 2),11,1,1,95,34,12,Aggressive,1
+43,Female,Master's,10,4,24,42,15,33,Aggressive,1
+42,Female,Bachelor's (Type 1),12,5,35,7,78,99,Moderate,0
+49,Male,Bachelor's (Type 1),14,5,12,2,17,93,Aggressive,1
+24,Male,Bachelor's (Type 2),10,1,8,11,100,24,Moderate,0
+31,Female,PhD,15,2,45,83,61,65,Moderate,1
+36,Female,Bachelor's (Type 2),12,1,15,15,26,99,Moderate,0
+42,Male,Bachelor's (Type 2),9,1,12,77,34,17,Aggressive,1
+32,Male,Bachelor's (Type 2),2,5,44,79,44,4,Conservative,0
+42,Male,Bachelor's (Type 2),12,4,42,58,34,18,Aggressive,0
+44,Male,Bachelor's (Type 2),10,1,23,48,27,41,Moderate,0
+22,Female,Bachelor's (Type 2),2,2,25,62,8,17,Moderate,0
+28,Male,Bachelor's (Type 2),14,3,12,61,75,31,Moderate,0
+49,Male,Bachelor's (Type 2),14,1,5,48,14,20,Moderate,0
+36,Male,Bachelor's (Type 2),15,1,30,50,20,9,Aggressive,0
+36,Male,Bachelor's (Type 2),12,2,6,32,51,36,Moderate,0
+49,Female,Master's,12,4,23,29,34,48,Aggressive,1
+39,Female,Bachelor's (Type 1),0,1,48,58,96,85,Aggressive,1
+35,Female,Master's,2,1,49,75,50,12,Moderate,0
+44,Male,Master's,3,4,13,14,82,54,Moderate,0
+41,Male,Bachelor's (Type 2),10,2,32,81,54,16,Moderate,0
+32,Female,Bachelor's (Type 2),10,1,25,91,86,8,Moderate,0
+46,Male,Bachelor's (Type 2),4,4,45,22,76,87,Conservative,0
+38,Male,Bachelor's (Type 2),2,1,15,77,43,43,Conservative,0
+36,Female,Bachelor's (Type 2),5,3,1,93,64,77,Moderate,0
+23,Female,Bachelor's (Type 1),10,5,9,96,92,45,Aggressive,1
+31,Female,Bachelor's (Type 2),13,3,18,44,87,7,Moderate,0
+48,Female,Master's,14,1,17,61,79,36,Aggressive,1
+28,Male,Bachelor's (Type 2),11,2,41,78,24,18,Moderate,0
+38,Male,Master's,15,5,35,70,86,62,Moderate,1
+31,Female,Bachelor's (Type 2),4,3,16,14,91,91,Moderate,0
+28,Male,Master's,2,4,24,45,46,45,Moderate,0
+26,Female,Bachelor's (Type 2),5,2,6,63,79,93,Aggressive,1
+47,Female,Bachelor's (Type 1),5,3,46,45,55,70,Moderate,0
+33,Male,Bachelor's (Type 2),14,4,48,55,37,25,Moderate,0
+50,Female,Bachelor's (Type 1),13,1,50,43,10,45,Moderate,0
+39,Male,Bachelor's (Type 2),7,4,44,74,66,45,Moderate,0
+38,Male,PhD,1,3,10,28,14,74,Moderate,0
+45,Male,Bachelor's (Type 1),0,3,3,94,0,13,Moderate,0
+34,Male,Bachelor's (Type 2),15,1,30,61,6,84,Moderate,0
+35,Female,Master's,3,4,47,88,0,62,Aggressive,1
+40,Male,Master's,15,4,10,51,48,71,Aggressive,1
+24,Female,Bachelor's (Type 2),6,1,1,53,95,2,Moderate,0
+22,Female,Bachelor's (Type 2),14,4,41,87,72,27,Aggressive,1
+31,Female,Bachelor's (Type 2),15,1,5,56,28,28,Moderate,0
+44,Female,Bachelor's (Type 2),10,2,22,82,25,86,Moderate,0
+39,Male,Master's,9,3,35,65,86,17,Conservative,0
+46,Male,PhD,2,2,13,21,44,34,Conservative,0
+40,Female,Master's,2,5,5,19,92,76,Aggressive,1
+23,Female,Master's,15,5,40,32,96,75,Conservative,1
+40,Male,Bachelor's (Type 1),4,5,33,71,70,46,Moderate,0
+42,Female,Master's,4,1,50,24,11,4,Moderate,0
+35,Male,Master's,12,4,18,45,94,74,Aggressive,1
+44,Female,Bachelor's (Type 1),9,2,4,72,31,58,Conservative,0
+26,Male,Master's,2,2,38,97,19,74,Aggressive,1
+32,Female,Bachelor's (Type 2),8,2,27,56,50,58,Conservative,0
+40,Female,Bachelor's (Type 2),3,2,12,86,80,46,Aggressive,1
+29,Male,Master's,12,5,40,4,35,94,Moderate,0
+45,Female,Bachelor's (Type 2),12,2,11,54,66,94,Moderate,0
+26,Female,Bachelor's (Type 1),14,4,14,60,0,12,Aggressive,0
+33,Male,Bachelor's (Type 2),2,5,6,88,26,77,Aggressive,1
+50,Female,Bachelor's (Type 2),10,2,21,7,39,88,Moderate,0
+45,Male,PhD,1,1,22,15,96,32,Aggressive,1
+24,Male,Bachelor's (Type 2),9,3,27,47,83,96,Moderate,0
+22,Female,Bachelor's (Type 2),12,3,36,60,13,61,Moderate,0
+42,Female,Master's,10,3,46,14,99,78,Conservative,1
+48,Female,Bachelor's (Type 2),8,5,8,64,68,15,Moderate,0
+30,Female,Bachelor's (Type 2),3,2,4,21,86,43,Aggressive,0
+30,Female,Bachelor's (Type 2),15,5,2,2,78,57,Moderate,0
+37,Female,Master's,2,4,8,53,5,5,Aggressive,0
+34,Female,Bachelor's (Type 2),6,1,34,13,32,88,Conservative,0
+31,Male,Bachelor's (Type 2),7,1,37,35,54,14,Conservative,0
+28,Female,Bachelor's (Type 1),10,3,40,81,18,3,Moderate,0
+29,Male,Bachelor's (Type 1),13,3,13,81,76,55,Aggressive,1
+45,Female,Bachelor's (Type 1),1,3,16,66,28,63,Conservative,0
+31,Female,Bachelor's (Type 1),6,2,25,9,60,67,Conservative,0
+36,Male,Bachelor's (Type 2),11,4,4,48,69,93,Conservative,0
+48,Female,Master's,4,4,32,64,78,33,Conservative,0
+25,Female,Bachelor's (Type 2),14,4,50,90,79,90,Moderate,1
+26,Male,Master's,10,4,19,56,23,94,Aggressive,1
+33,Female,PhD,4,3,39,26,22,55,Moderate,0
+32,Female,Master's,2,1,26,74,9,31,Moderate,0
+27,Female,Bachelor's (Type 2),4,3,7,4,53,8,Moderate,0
+29,Male,Bachelor's (Type 2),11,4,30,70,40,62,Moderate,0
+28,Female,Bachelor's (Type 2),1,3,16,82,48,71,Aggressive,1
+37,Female,Bachelor's (Type 1),3,4,3,56,16,77,Moderate,0
+46,Female,Bachelor's (Type 2),5,5,33,92,55,32,Moderate,0
+45,Female,PhD,0,1,44,14,44,86,Aggressive,1
+21,Male,Master's,9,5,18,98,29,20,Moderate,0
+24,Male,Bachelor's (Type 2),3,2,21,100,43,54,Conservative,0
+48,Female,Bachelor's (Type 2),5,3,46,75,73,75,Conservative,0
+24,Female,Master's,8,2,42,29,54,56,Moderate,0
+25,Male,Bachelor's (Type 1),13,3,37,19,18,1,Moderate,0
+38,Male,Bachelor's (Type 2),10,5,13,36,28,12,Aggressive,0
+27,Female,Master's,15,4,47,2,1,3,Moderate,0
+35,Male,Bachelor's (Type 2),10,4,9,72,35,83,Moderate,0
+32,Female,Bachelor's (Type 1),12,3,32,40,18,49,Moderate,0
+20,Male,Bachelor's (Type 2),1,4,2,38,6,47,Conservative,0
+41,Male,Master's,10,5,33,25,25,77,Moderate,0
+39,Male,Bachelor's (Type 2),6,4,15,1,78,29,Aggressive,1
+36,Male,Bachelor's (Type 2),5,5,23,22,37,28,Aggressive,0
+50,Female,Bachelor's (Type 2),1,2,18,22,2,7,Moderate,0
+26,Male,Bachelor's (Type 2),7,5,10,84,79,11,Moderate,0
+44,Male,Bachelor's (Type 2),6,1,32,15,65,40,Conservative,0
+32,Female,Master's,10,1,45,8,94,25,Moderate,0
+23,Male,Bachelor's (Type 1),4,1,49,12,91,49,Moderate,0
+23,Male,Master's,11,3,11,27,70,1,Moderate,0
+25,Female,Bachelor's (Type 1),4,3,37,26,93,54,Moderate,0
+47,Male,Bachelor's (Type 2),6,3,34,50,42,55,Moderate,0
+50,Female,Bachelor's (Type 1),8,5,18,63,61,13,Moderate,0
+38,Female,Bachelor's (Type 2),10,3,2,51,70,5,Moderate,0
+48,Female,Bachelor's (Type 2),14,2,35,80,99,94,Aggressive,1
+31,Female,Bachelor's (Type 2),8,1,48,37,92,80,Conservative,0
+41,Male,Bachelor's (Type 1),8,5,33,99,23,88,Moderate,0
+26,Female,Bachelor's (Type 2),5,1,23,64,38,60,Aggressive,0
+46,Male,Bachelor's (Type 1),9,3,27,17,67,95,Aggressive,1
+29,Male,Master's,5,5,11,62,92,11,Aggressive,1
+45,Male,PhD,2,4,39,50,43,12,Moderate,0
+38,Male,Bachelor's (Type 2),0,2,38,8,4,18,Aggressive,0
+26,Male,Bachelor's (Type 2),15,3,8,12,54,43,Aggressive,1
+49,Male,Bachelor's (Type 2),6,3,45,39,92,88,Moderate,0
+22,Male,Bachelor's (Type 1),3,2,14,54,29,94,Moderate,0
+32,Male,Bachelor's (Type 2),0,2,50,78,28,58,Aggressive,0
+32,Male,Master's,14,4,20,42,25,36,Moderate,0
+37,Male,Bachelor's (Type 2),7,3,10,43,82,24,Moderate,0
+47,Female,Bachelor's (Type 1),11,3,19,67,25,15,Conservative,0
+49,Female,Master's,5,1,23,32,36,37,Moderate,0
+45,Female,Bachelor's (Type 2),5,5,4,23,90,42,Aggressive,0
+39,Male,Master's,1,5,30,35,93,86,Moderate,0
+47,Female,Bachelor's (Type 2),14,1,31,9,52,13,Moderate,0
+27,Female,Bachelor's (Type 2),0,5,38,99,29,5,Aggressive,0
+48,Female,Bachelor's (Type 1),12,2,2,19,2,88,Conservative,0
+50,Male,Bachelor's (Type 1),13,5,28,74,42,22,Moderate,0
+28,Male,PhD,13,5,4,11,6,59,Conservative,0
+26,Male,Bachelor's (Type 2),1,1,36,61,48,11,Moderate,0
+20,Male,PhD,3,4,4,17,72,12,Moderate,0
+22,Female,Bachelor's (Type 2),1,5,47,93,40,99,Moderate,0
+32,Female,Bachelor's (Type 1),15,5,36,100,76,97,Moderate,1
+47,Female,Bachelor's (Type 1),0,4,26,62,78,5,Moderate,0
+49,Female,Bachelor's (Type 2),6,1,23,83,53,62,Conservative,1
+44,Male,PhD,10,4,8,24,68,37,Moderate,0
+50,Male,Bachelor's (Type 2),10,1,16,11,92,49,Conservative,0
+47,Male,Bachelor's (Type 2),14,2,44,20,98,51,Conservative,0
+36,Female,Bachelor's (Type 2),11,1,46,24,90,39,Conservative,0
+44,Male,Bachelor's (Type 1),7,2,1,10,26,7,Moderate,0
+43,Male,Bachelor's (Type 2),5,2,31,63,7,60,Moderate,0
+20,Female,Bachelor's (Type 1),3,1,37,72,31,7,Aggressive,0
+25,Female,Master's,13,3,32,49,83,96,Moderate,1
+40,Male,Bachelor's (Type 2),5,1,5,61,63,33,Aggressive,0
+25,Male,Bachelor's (Type 2),2,5,12,88,9,78,Aggressive,1
+45,Male,Bachelor's (Type 2),11,5,14,98,12,99,Aggressive,1
+31,Male,Bachelor's (Type 2),7,3,43,95,62,59,Conservative,0
+32,Male,PhD,9,2,24,48,92,56,Conservative,0
+32,Male,Bachelor's (Type 2),13,3,25,13,34,98,Moderate,0
+48,Female,Bachelor's (Type 1),12,5,48,0,60,45,Moderate,0
+34,Female,Bachelor's (Type 2),12,3,33,80,53,21,Moderate,0
+40,Female,Bachelor's (Type 1),1,1,46,24,7,86,Moderate,0
+35,Male,Bachelor's (Type 1),4,3,24,58,28,39,Moderate,0
+41,Female,PhD,0,2,8,71,94,44,Moderate,0
+40,Male,Master's,5,1,47,68,40,54,Moderate,0
+30,Male,PhD,1,4,24,4,29,50,Moderate,0
+47,Female,Bachelor's (Type 2),3,5,10,98,85,85,Moderate,0
+24,Male,Bachelor's (Type 2),5,5,16,18,20,4,Moderate,0
+23,Male,Bachelor's (Type 1),9,3,4,22,75,94,Conservative,0
+22,Female,Bachelor's (Type 2),10,1,24,8,10,12,Aggressive,0
+38,Female,Master's,7,4,44,93,1,27,Moderate,0
+39,Female,Bachelor's (Type 2),11,1,48,49,49,83,Moderate,0
+44,Male,Master's,7,5,48,15,40,96,Aggressive,1
+37,Female,Master's,10,1,7,32,65,79,Moderate,1
+34,Female,Bachelor's (Type 1),5,4,20,1,97,61,Aggressive,1
+28,Male,Bachelor's (Type 2),3,3,2,13,2,92,Moderate,0
+36,Female,Bachelor's (Type 2),7,2,44,0,79,86,Moderate,0
+33,Female,Bachelor's (Type 2),12,1,19,89,50,23,Moderate,0
+34,Female,Master's,7,2,33,57,67,97,Moderate,1
+50,Male,Bachelor's (Type 2),9,5,37,88,86,6,Aggressive,1
+20,Male,Bachelor's (Type 1),13,3,22,15,83,37,Moderate,0
+40,Male,Bachelor's (Type 2),0,3,16,78,24,36,Aggressive,0
+41,Male,PhD,15,1,49,89,29,67,Conservative,1
+41,Female,Bachelor's (Type 1),3,3,49,46,81,97,Conservative,0
+22,Male,Master's,3,1,15,43,10,41,Moderate,0
+35,Male,Bachelor's (Type 2),6,1,25,79,92,85,Conservative,1
+42,Female,Master's,15,2,50,13,16,4,Moderate,0
+44,Female,Master's,13,3,1,92,25,63,Conservative,1
+30,Female,Bachelor's (Type 2),13,1,22,23,22,49,Moderate,0
+31,Male,Bachelor's (Type 2),10,2,6,54,55,86,Aggressive,1
+29,Male,Master's,6,4,26,14,51,14,Conservative,0
+35,Male,Bachelor's (Type 2),15,2,2,82,47,94,Aggressive,1
+27,Female,Master's,12,2,21,71,19,72,Aggressive,1
+25,Female,Bachelor's (Type 1),10,1,12,33,1,52,Aggressive,0
+31,Male,Master's,14,5,28,1,87,24,Moderate,0
+43,Female,Master's,7,5,51,26,30,88,Moderate,0
+47,Female,PhD,15,5,41,73,26,84,Moderate,1
+40,Female,Bachelor's (Type 1),10,2,43,98,1,8,Conservative,0
+27,Male,Bachelor's (Type 2),4,1,33,86,77,37,Aggressive,1
+45,Female,Bachelor's (Type 2),6,3,3,71,3,21,Conservative,0
+47,Female,Bachelor's (Type 2),7,2,11,91,12,86,Conservative,0
+23,Male,Bachelor's (Type 2),15,2,47,22,99,48,Aggressive,1
+45,Male,Bachelor's (Type 1),14,1,19,67,34,67,Moderate,0
+27,Female,Master's,8,4,6,13,71,92,Conservative,1
+45,Female,Bachelor's (Type 2),2,2,36,62,65,14,Moderate,0
+47,Male,Bachelor's (Type 1),2,4,16,92,5,64,Moderate,0
+37,Male,Bachelor's (Type 2),3,4,14,64,30,53,Moderate,0
+47,Female,Bachelor's (Type 2),4,5,51,67,9,29,Moderate,0
+47,Female,Bachelor's (Type 1),9,1,44,62,20,92,Aggressive,1
+24,Female,PhD,0,4,21,95,73,19,Moderate,0
+28,Female,PhD,14,1,50,96,22,32,Aggressive,1
+23,Male,Bachelor's (Type 2),14,5,34,89,2,99,Moderate,0
+46,Female,Bachelor's (Type 1),6,1,38,80,31,85,Conservative,0
+41,Female,Master's,8,2,3,86,19,76,Moderate,1
+50,Male,Bachelor's (Type 2),7,4,7,63,73,6,Conservative,0
+36,Female,Bachelor's (Type 2),14,1,33,31,28,7,Moderate,0
+28,Male,Bachelor's (Type 2),14,3,46,78,51,27,Moderate,0
+20,Female,Bachelor's (Type 2),4,1,32,12,45,44,Moderate,0
+40,Female,Bachelor's (Type 2),13,4,8,65,33,72,Conservative,0
+39,Male,Bachelor's (Type 2),13,5,7,18,100,88,Moderate,0
+32,Male,Bachelor's (Type 2),3,5,43,23,83,79,Aggressive,1
+47,Female,PhD,11,4,8,87,60,73,Conservative,1
+35,Female,Bachelor's (Type 2),6,2,27,10,71,10,Moderate,0
+48,Female,Master's,4,2,3,58,70,30,Aggressive,1
+32,Male,Master's,6,5,5,85,69,11,Moderate,1
+33,Female,Bachelor's (Type 2),11,5,35,14,10,94,Conservative,0
+22,Male,Bachelor's (Type 2),0,4,35,9,81,77,Moderate,0
+48,Male,Bachelor's (Type 2),0,2,18,40,92,50,Moderate,0
+25,Female,Bachelor's (Type 2),15,5,12,26,88,43,Conservative,0
+37,Male,Master's,9,2,42,59,62,95,Moderate,1
+38,Female,Bachelor's (Type 2),13,5,12,72,20,49,Moderate,0
+24,Female,PhD,12,1,28,51,2,16,Aggressive,1
+34,Female,Bachelor's (Type 1),2,3,49,27,81,34,Aggressive,0
+44,Female,Bachelor's (Type 1),13,1,8,64,87,0,Moderate,0
+21,Female,Bachelor's (Type 2),10,5,48,16,9,28,Conservative,0
+29,Male,Bachelor's (Type 2),1,3,10,94,26,50,Aggressive,0
+43,Male,Bachelor's (Type 2),1,3,29,43,11,63,Moderate,0
+49,Female,Bachelor's (Type 2),6,5,20,9,6,3,Aggressive,0
+37,Female,Bachelor's (Type 2),11,5,49,62,16,86,Moderate,0
+46,Male,Bachelor's (Type 1),9,2,15,100,64,27,Aggressive,1
+32,Male,PhD,1,5,21,92,63,15,Aggressive,1
+24,Male,Bachelor's (Type 2),10,4,50,81,25,62,Aggressive,1
+42,Male,Master's,3,5,28,46,14,75,Moderate,0
+43,Female,Master's,1,4,26,37,32,52,Moderate,0
+20,Female,PhD,5,5,14,69,61,84,Aggressive,1
+41,Male,Bachelor's (Type 1),7,2,36,75,100,16,Conservative,0
+20,Female,Master's,9,4,2,52,46,39,Aggressive,1
+37,Male,Bachelor's (Type 2),15,1,3,77,94,12,Moderate,0
+34,Female,Bachelor's (Type 2),3,4,31,43,34,51,Conservative,0
+36,Male,Bachelor's (Type 2),14,2,18,73,64,57,Moderate,0
+30,Female,Master's,4,4,49,53,71,95,Moderate,0
+40,Male,Bachelor's (Type 2),3,5,46,19,75,36,Aggressive,0
+45,Male,Master's,2,5,37,78,82,78,Moderate,1
+50,Female,Bachelor's (Type 2),4,2,42,30,24,75,Moderate,0
+44,Male,Master's,13,3,34,6,56,60,Conservative,0
+41,Female,PhD,8,5,7,57,31,78,Aggressive,1
+46,Female,Bachelor's (Type 2),7,1,39,9,62,33,Moderate,0
+46,Male,PhD,7,2,12,9,11,69,Moderate,0
+36,Female,Bachelor's (Type 1),7,4,17,38,62,16,Conservative,0
+32,Female,Bachelor's (Type 1),11,4,42,27,76,19,Aggressive,1
+20,Female,Bachelor's (Type 1),7,1,28,29,91,72,Conservative,0
+21,Female,Bachelor's (Type 2),6,5,44,36,0,58,Moderate,0
+28,Female,Bachelor's (Type 2),7,2,12,66,50,68,Moderate,0
+22,Male,Bachelor's (Type 1),10,1,31,42,69,86,Aggressive,1
+50,Female,Bachelor's (Type 1),13,5,5,78,7,32,Moderate,0
+20,Female,PhD,15,2,33,84,67,77,Moderate,1
+40,Female,Master's,7,4,39,51,4,16,Moderate,0
+35,Female,Master's,12,2,30,100,88,56,Aggressive,1
+42,Female,Master's,13,3,14,55,85,82,Aggressive,1
+25,Male,Master's,7,2,3,75,91,96,Conservative,1
+47,Female,Bachelor's (Type 1),11,3,7,67,38,0,Conservative,0
+36,Male,Bachelor's (Type 2),9,2,32,8,22,12,Moderate,0
+24,Male,Master's,6,3,48,91,67,26,Aggressive,1
+50,Male,Bachelor's (Type 2),11,4,11,22,51,69,Moderate,0
+24,Male,Bachelor's (Type 2),0,5,38,62,3,58,Moderate,0
+25,Female,Bachelor's (Type 1),3,3,44,60,46,5,Conservative,0
+22,Male,Bachelor's (Type 2),12,3,27,39,20,96,Moderate,0
+40,Male,Bachelor's (Type 2),12,4,34,43,100,93,Conservative,0
+42,Female,Bachelor's (Type 2),15,3,42,85,55,98,Conservative,1
+24,Female,Bachelor's (Type 2),3,1,14,23,65,22,Conservative,0
+40,Female,Bachelor's (Type 2),4,4,16,50,58,9,Aggressive,0
+24,Male,Bachelor's (Type 1),9,1,1,57,6,50,Aggressive,0
+29,Female,Bachelor's (Type 1),5,4,49,89,48,18,Moderate,0
+29,Female,Master's,3,3,47,93,15,50,Moderate,0
+38,Male,Bachelor's (Type 2),14,1,39,32,16,91,Aggressive,1
+36,Female,Bachelor's (Type 1),1,3,5,15,83,86,Aggressive,1
+40,Female,Master's,15,4,23,21,86,67,Moderate,1
+33,Female,Bachelor's (Type 2),5,3,6,56,97,83,Moderate,0
+28,Female,Bachelor's (Type 2),14,1,2,61,74,82,Moderate,0
+33,Male,Bachelor's (Type 1),7,1,32,81,33,41,Moderate,0
+20,Female,Master's,14,3,49,70,32,90,Moderate,0
+38,Female,Bachelor's (Type 2),7,2,46,89,25,56,Moderate,0
+32,Male,Bachelor's (Type 2),6,4,36,71,65,97,Aggressive,1
+32,Female,Master's,5,4,6,69,62,67,Moderate,0
+23,Male,Bachelor's (Type 2),1,3,15,29,86,37,Moderate,0
+49,Female,Bachelor's (Type 2),14,2,17,22,40,61,Aggressive,1
+20,Male,Bachelor's (Type 1),6,1,39,31,85,6,Moderate,0
+36,Male,Bachelor's (Type 2),10,5,41,85,57,70,Moderate,1
+27,Male,Bachelor's (Type 1),11,5,20,56,97,49,Moderate,0
+21,Male,Bachelor's (Type 2),13,3,22,8,78,51,Moderate,0
+47,Female,Master's,15,2,3,30,9,25,Moderate,0
+50,Male,Bachelor's (Type 2),13,2,15,70,14,25,Moderate,0
+27,Female,Bachelor's (Type 2),4,4,24,8,41,18,Conservative,0
+26,Male,Bachelor's (Type 1),15,1,7,12,92,8,Aggressive,1
+45,Male,Bachelor's (Type 2),5,2,24,57,56,60,Conservative,0
+45,Male,Bachelor's (Type 2),9,5,44,2,86,19,Moderate,0
+21,Female,Master's,7,1,30,34,16,49,Aggressive,1
+41,Male,Bachelor's (Type 1),15,1,5,96,59,79,Aggressive,1
+41,Female,Master's,13,3,11,20,8,80,Moderate,0
+22,Female,Master's,7,2,25,63,35,21,Moderate,0
+46,Female,Bachelor's (Type 2),2,3,19,94,72,12,Aggressive,1
+37,Female,Master's,11,2,19,51,79,11,Aggressive,1
+31,Female,Bachelor's (Type 2),15,4,27,33,35,9,Moderate,0
+20,Female,Bachelor's (Type 2),11,3,30,95,47,64,Aggressive,1
+41,Female,Bachelor's (Type 2),13,3,41,34,50,95,Conservative,0
+31,Female,Bachelor's (Type 2),6,5,18,14,96,29,Moderate,0
+24,Female,Bachelor's (Type 2),0,3,41,95,94,7,Moderate,0
+49,Male,Bachelor's (Type 2),0,2,18,5,69,20,Moderate,0
+49,Male,Bachelor's (Type 2),6,5,4,84,73,21,Aggressive,1
+46,Male,Bachelor's (Type 2),14,3,29,96,79,17,Conservative,0
+44,Male,Bachelor's (Type 1),14,3,30,31,67,65,Aggressive,1
+36,Male,PhD,9,4,48,51,21,47,Moderate,0
+35,Female,Master's,8,3,37,82,76,43,Moderate,1
+50,Female,Bachelor's (Type 2),6,1,47,96,79,8,Aggressive,1
+34,Female,Bachelor's (Type 1),9,5,46,27,92,66,Moderate,0
+42,Female,Master's,4,1,31,94,5,53,Conservative,0
+34,Female,Master's,7,5,27,84,25,25,Moderate,0
+24,Female,Master's,1,4,29,97,74,84,Conservative,1
+40,Female,Bachelor's (Type 2),8,3,50,63,87,93,Conservative,0
+33,Male,Bachelor's (Type 2),5,3,40,78,92,91,Moderate,0
+21,Male,Bachelor's (Type 1),12,3,6,77,2,99,Moderate,0
+30,Male,Bachelor's (Type 1),8,5,40,18,51,25,Moderate,0
+38,Male,Master's,15,3,10,14,73,33,Moderate,0
+26,Female,Master's,1,1,23,5,59,7,Aggressive,1
+25,Female,Bachelor's (Type 2),2,3,12,72,62,9,Conservative,0
+47,Female,Master's,11,4,35,100,64,47,Moderate,1
+21,Male,Bachelor's (Type 2),7,1,45,83,51,54,Moderate,0
+25,Female,Bachelor's (Type 2),0,3,16,97,89,53,Moderate,0
+37,Female,Bachelor's (Type 2),14,3,5,37,75,77,Moderate,0
+21,Female,PhD,9,2,16,25,13,39,Conservative,0
+37,Male,Bachelor's (Type 1),14,5,35,81,88,14,Moderate,0
+49,Female,PhD,14,1,17,91,71,80,Aggressive,1
+34,Male,Master's,14,2,15,50,67,17,Aggressive,1
+46,Male,Bachelor's (Type 1),6,4,10,72,27,95,Conservative,0
+38,Male,Bachelor's (Type 2),6,5,26,95,70,22,Moderate,0
+50,Male,Master's,12,1,15,52,9,61,Conservative,0
+21,Female,Bachelor's (Type 2),0,3,38,55,56,45,Aggressive,0
+39,Male,PhD,15,1,5,58,99,86,Aggressive,1
+44,Male,PhD,8,3,34,69,65,98,Aggressive,1
+25,Female,Bachelor's (Type 2),7,5,13,77,89,38,Moderate,0
+20,Female,Bachelor's (Type 2),3,3,25,91,49,14,Moderate,0
+43,Male,PhD,9,4,15,57,13,52,Aggressive,1
+34,Female,Bachelor's (Type 2),10,3,37,87,15,87,Moderate,0
+47,Male,Bachelor's (Type 1),4,4,48,12,53,63,Moderate,0
+49,Male,Bachelor's (Type 1),1,5,47,42,42,62,Aggressive,0
+42,Male,Bachelor's (Type 2),12,5,30,75,41,91,Moderate,0
+29,Male,PhD,15,1,24,50,80,79,Moderate,1
+38,Female,Master's,8,4,42,18,21,15,Aggressive,1
+36,Male,Bachelor's (Type 2),14,4,35,20,67,69,Aggressive,1
+24,Female,Bachelor's (Type 1),11,2,10,90,18,65,Moderate,0
+48,Female,Bachelor's (Type 2),11,2,42,82,65,12,Moderate,0
+23,Female,Master's,5,2,22,23,38,46,Conservative,0
+29,Female,Bachelor's (Type 1),2,3,10,25,72,8,Moderate,0
+43,Male,Bachelor's (Type 2),11,2,15,44,18,62,Aggressive,1
+36,Female,Bachelor's (Type 1),6,4,14,27,15,33,Conservative,0
+29,Male,Bachelor's (Type 2),8,3,27,81,53,80,Conservative,1
+36,Female,PhD,2,5,13,99,24,90,Moderate,0
+47,Female,Bachelor's (Type 2),15,1,7,28,17,28,Conservative,0
+39,Male,Bachelor's (Type 2),1,2,7,16,22,36,Moderate,0
+43,Male,Bachelor's (Type 2),15,5,30,67,84,42,Moderate,0
+24,Male,PhD,6,4,38,43,10,85,Moderate,0
+21,Female,Bachelor's (Type 1),6,1,17,60,38,63,Moderate,0
+25,Female,Bachelor's (Type 2),3,5,3,92,67,23,Aggressive,1
+40,Male,Bachelor's (Type 2),10,1,7,67,24,70,Conservative,0
+21,Male,Master's,8,2,47,73,62,33,Conservative,1
+32,Male,Bachelor's (Type 2),15,4,26,24,95,47,Moderate,0
+49,Male,Bachelor's (Type 1),13,1,24,94,29,11,Moderate,0
+30,Female,Bachelor's (Type 2),7,5,3,66,44,22,Aggressive,0
+30,Male,Master's,12,2,37,1,89,78,Aggressive,1
+35,Male,Bachelor's (Type 1),12,2,27,88,60,96,Aggressive,1
+30,Male,Master's,0,5,11,48,99,12,Moderate,0
+38,Male,Bachelor's (Type 1),0,5,7,69,50,86,Conservative,0
+34,Female,Bachelor's (Type 2),4,1,20,25,97,95,Aggressive,1
+44,Male,Bachelor's (Type 2),5,3,43,71,8,44,Aggressive,0
+42,Female,Master's,2,2,44,98,75,98,Moderate,1
+42,Male,Bachelor's (Type 2),12,1,31,26,1,64,Aggressive,1
+35,Male,Master's,8,5,37,88,4,46,Conservative,0
+50,Female,Master's,11,1,7,17,61,57,Moderate,0
+30,Male,Bachelor's (Type 2),9,5,30,53,68,4,Aggressive,1
+41,Female,Master's,13,4,34,0,51,76,Aggressive,1
+35,Female,Master's,14,5,11,60,85,4,Aggressive,1
+27,Male,Bachelor's (Type 1),5,5,45,2,4,59,Moderate,0
+23,Female,Bachelor's (Type 2),3,5,11,67,58,95,Aggressive,1
+27,Female,PhD,11,3,17,40,67,20,Moderate,0
+23,Female,Bachelor's (Type 1),6,5,32,36,8,23,Moderate,0
+43,Female,Master's,7,2,33,50,92,17,Aggressive,1
+44,Female,PhD,8,2,36,14,21,20,Aggressive,1
+22,Female,Bachelor's (Type 1),12,1,7,7,26,53,Moderate,0
+22,Female,Bachelor's (Type 2),15,3,43,37,9,9,Moderate,0
+46,Female,Bachelor's (Type 2),10,1,28,82,79,23,Conservative,0
+48,Male,Bachelor's (Type 2),5,2,25,55,60,84,Aggressive,1
+37,Male,Bachelor's (Type 1),14,2,50,46,50,88,Aggressive,1
+48,Female,Bachelor's (Type 1),5,4,38,89,9,59,Aggressive,0
+45,Male,Bachelor's (Type 2),7,5,7,9,5,56,Moderate,0
+38,Female,Master's,11,2,39,77,61,22,Moderate,1
+38,Female,Master's,4,1,6,48,4,21,Conservative,0
+40,Male,Bachelor's (Type 2),13,1,2,40,69,67,Moderate,0
+24,Female,Bachelor's (Type 1),2,5,21,82,62,33,Aggressive,1
+37,Female,Bachelor's (Type 2),11,5,51,29,55,69,Moderate,0
+47,Female,Bachelor's (Type 2),2,4,10,4,58,27,Conservative,0
+29,Female,PhD,12,3,35,94,62,94,Moderate,1
+48,Male,Master's,5,1,10,70,88,98,Moderate,0
+41,Female,Master's,1,5,37,82,58,38,Conservative,0
+40,Female,PhD,15,1,26,30,50,41,Moderate,0
+25,Female,Bachelor's (Type 1),5,5,35,51,49,22,Moderate,0
+20,Male,Master's,15,2,11,87,3,69,Aggressive,1
+24,Female,Bachelor's (Type 2),12,1,38,97,47,79,Moderate,0
+28,Male,PhD,5,2,51,22,31,1,Aggressive,0
+31,Male,Bachelor's (Type 2),7,1,34,47,50,23,Moderate,0
+45,Female,Master's,6,3,26,39,51,16,Aggressive,1
+33,Female,Master's,7,4,47,5,98,64,Conservative,1
+21,Male,Bachelor's (Type 1),13,2,2,37,73,69,Conservative,0
+36,Female,Bachelor's (Type 2),8,5,37,40,33,68,Moderate,0
+33,Male,Master's,5,3,45,99,35,59,Aggressive,1
+45,Male,Bachelor's (Type 2),13,1,4,26,69,49,Aggressive,1
+32,Female,Bachelor's (Type 2),15,2,24,74,42,92,Moderate,0
+46,Female,Bachelor's (Type 2),2,1,11,68,15,11,Moderate,0
+28,Male,Bachelor's (Type 1),9,1,29,56,58,46,Moderate,0
+45,Male,Master's,2,1,33,16,52,66,Moderate,0
+44,Male,Bachelor's (Type 2),15,4,16,70,18,64,Moderate,0
+34,Male,Bachelor's (Type 1),10,4,24,90,97,26,Moderate,0
+44,Female,Bachelor's (Type 2),11,5,15,46,88,47,Moderate,0
+41,Female,Bachelor's (Type 2),0,2,19,78,94,87,Moderate,0
+34,Female,Bachelor's (Type 1),10,3,9,12,40,61,Moderate,0
+43,Female,Bachelor's (Type 2),14,3,45,10,80,43,Aggressive,1
+49,Female,Bachelor's (Type 2),12,3,2,89,46,18,Aggressive,1
+30,Male,Bachelor's (Type 2),14,1,45,85,93,58,Moderate,0
+50,Female,Master's,4,4,30,91,53,7,Aggressive,1
+35,Female,Bachelor's (Type 2),13,2,18,23,54,54,Moderate,0
+48,Female,Bachelor's (Type 2),3,1,37,92,94,46,Moderate,0
+36,Female,Bachelor's (Type 2),8,4,26,72,18,1,Conservative,0
+45,Female,Bachelor's (Type 2),14,4,26,3,61,93,Moderate,0
+23,Male,Bachelor's (Type 2),8,2,7,45,98,93,Aggressive,1
+20,Male,Bachelor's (Type 2),14,2,20,17,92,38,Aggressive,1
+27,Male,Master's,13,2,13,42,58,44,Conservative,0
+36,Female,Bachelor's (Type 2),4,1,2,79,64,31,Aggressive,1
+22,Male,Bachelor's (Type 2),9,5,19,32,67,64,Moderate,0
+48,Male,Master's,3,2,5,92,27,37,Moderate,0
+39,Female,Bachelor's (Type 2),6,5,14,9,17,76,Moderate,0
+34,Female,Bachelor's (Type 2),14,1,6,72,25,10,Moderate,0
+34,Female,Bachelor's (Type 2),5,5,6,58,18,9,Moderate,0
+50,Male,Bachelor's (Type 1),3,3,11,30,54,58,Conservative,0
+43,Male,Master's,12,5,51,27,56,89,Aggressive,1
+41,Female,Master's,12,2,1,59,5,54,Conservative,0
+33,Female,PhD,14,1,33,2,0,19,Moderate,0
+45,Male,Bachelor's (Type 2),9,2,8,54,7,80,Conservative,0
+47,Male,Bachelor's (Type 2),1,3,47,13,96,16,Aggressive,0
+42,Female,Bachelor's (Type 1),0,2,6,57,50,67,Aggressive,0
+33,Female,Bachelor's (Type 2),3,2,49,88,84,4,Conservative,0
+43,Male,Bachelor's (Type 2),3,2,32,14,87,59,Conservative,0
+21,Female,PhD,12,4,1,1,24,22,Moderate,0
+32,Male,Bachelor's (Type 2),0,3,46,23,46,45,Moderate,0
+45,Male,Bachelor's (Type 2),5,2,27,77,54,51,Conservative,0
+33,Male,Bachelor's (Type 2),3,2,14,63,63,9,Aggressive,0
+46,Male,Bachelor's (Type 2),0,2,39,70,82,45,Moderate,0
+43,Female,Bachelor's (Type 2),0,1,47,99,92,27,Conservative,0
+38,Female,Master's,14,4,25,23,9,96,Moderate,0
+26,Male,Bachelor's (Type 2),12,1,17,26,55,42,Moderate,0
+22,Male,Master's,0,4,40,36,11,25,Moderate,0
+34,Male,Bachelor's (Type 2),7,2,35,93,32,54,Moderate,0
+42,Male,Master's,9,3,45,90,70,47,Aggressive,1
+33,Male,Master's,7,5,36,38,16,28,Conservative,0
+30,Female,Bachelor's (Type 2),1,5,13,62,60,26,Moderate,0
+34,Female,Bachelor's (Type 2),10,2,48,78,9,17,Conservative,0
+47,Female,PhD,12,1,6,25,30,59,Conservative,0
+32,Female,Bachelor's (Type 2),6,3,14,64,59,73,Aggressive,1
+37,Male,PhD,13,4,27,3,69,68,Aggressive,1
+45,Male,Bachelor's (Type 1),7,2,29,28,16,73,Moderate,0
+25,Male,Bachelor's (Type 2),7,3,2,0,49,20,Moderate,0
+22,Male,Master's,10,3,40,49,36,23,Moderate,0
+38,Male,PhD,9,4,19,85,81,2,Moderate,1
+34,Female,Bachelor's (Type 2),14,3,21,10,61,94,Moderate,0
+44,Male,Master's,10,1,41,73,89,61,Aggressive,1
+42,Female,Bachelor's (Type 2),12,1,20,58,79,100,Moderate,0
+24,Female,Bachelor's (Type 1),6,1,3,61,71,1,Moderate,0
+47,Female,Bachelor's (Type 2),4,3,10,80,87,65,Moderate,0
+29,Female,Bachelor's (Type 2),0,1,49,35,76,41,Aggressive,0
+26,Male,PhD,11,4,5,55,28,33,Moderate,0
+44,Female,Bachelor's (Type 2),8,3,19,89,31,41,Aggressive,1
+36,Female,Bachelor's (Type 2),12,5,26,20,87,19,Moderate,0
+26,Female,Bachelor's (Type 1),15,3,26,12,79,96,Moderate,0
+41,Male,Bachelor's (Type 2),6,4,1,8,10,67,Aggressive,1
+45,Male,Bachelor's (Type 2),1,5,26,10,95,44,Moderate,0
+49,Male,Master's,5,3,20,74,5,74,Moderate,0
+31,Female,Bachelor's (Type 2),1,1,50,69,34,41,Aggressive,0
+44,Female,PhD,14,2,9,0,32,46,Aggressive,1
+36,Male,PhD,0,2,19,69,17,4,Conservative,0
+32,Female,Bachelor's (Type 2),13,1,22,76,36,88,Moderate,0
+39,Male,PhD,6,2,21,85,12,48,Conservative,0
+44,Male,Master's,12,2,34,55,73,36,Moderate,0
+23,Female,Bachelor's (Type 2),15,1,12,30,100,33,Moderate,0
+29,Female,Bachelor's (Type 1),1,1,12,85,89,72,Moderate,0
+22,Female,Bachelor's (Type 2),12,3,37,36,80,69,Moderate,0
+28,Female,Bachelor's (Type 2),13,3,26,46,63,17,Aggressive,1
+32,Male,Master's,13,1,22,90,0,77,Moderate,1
+37,Male,Bachelor's (Type 2),1,4,9,77,62,18,Moderate,0
+34,Male,Master's,12,2,10,46,88,77,Aggressive,1
+23,Male,Bachelor's (Type 2),10,3,2,68,33,39,Aggressive,0
+34,Male,Bachelor's (Type 1),4,2,6,57,9,16,Aggressive,0
+41,Female,PhD,13,5,29,35,83,59,Moderate,0
+21,Male,Bachelor's (Type 2),4,1,46,31,6,98,Moderate,0
+34,Male,Bachelor's (Type 2),15,4,15,97,55,92,Conservative,1
+27,Male,Bachelor's (Type 2),6,5,17,63,79,41,Aggressive,1
+27,Female,Bachelor's (Type 1),0,5,7,70,36,80,Aggressive,0
+36,Female,Bachelor's (Type 2),7,5,20,41,28,71,Moderate,0
+31,Female,Bachelor's (Type 2),2,1,3,47,11,64,Conservative,0
+38,Female,Bachelor's (Type 2),3,3,47,73,16,52,Aggressive,0
+29,Male,PhD,14,1,35,80,47,99,Moderate,1
+28,Male,Bachelor's (Type 2),8,3,51,29,83,6,Moderate,0
+24,Female,Bachelor's (Type 2),3,5,45,20,25,4,Aggressive,0
+25,Female,Bachelor's (Type 2),9,5,25,59,82,23,Moderate,0
+39,Male,PhD,11,4,27,12,11,27,Aggressive,1
+45,Male,Bachelor's (Type 1),14,3,11,0,20,61,Conservative,0
+21,Female,Bachelor's (Type 2),4,5,24,64,41,16,Moderate,0
+46,Female,Bachelor's (Type 1),6,2,46,32,60,100,Moderate,0
+43,Female,Bachelor's (Type 1),15,4,4,37,57,19,Moderate,0
+46,Female,Master's,3,1,44,24,53,2,Moderate,0
+32,Male,Master's,13,4,18,25,33,36,Moderate,0
+25,Male,Bachelor's (Type 2),0,2,46,76,6,89,Aggressive,1
+24,Male,Bachelor's (Type 2),8,3,48,58,34,14,Moderate,0
+44,Female,Bachelor's (Type 2),3,1,35,91,14,50,Aggressive,0
+20,Female,PhD,8,1,34,32,64,47,Moderate,0
+40,Male,PhD,5,3,24,100,89,7,Aggressive,1
+41,Male,Bachelor's (Type 2),14,4,43,40,98,12,Moderate,0
+40,Male,Master's,0,5,49,29,24,47,Aggressive,0
+25,Male,Master's,11,4,40,56,58,2,Conservative,0
+25,Female,Bachelor's (Type 2),2,2,32,48,78,64,Moderate,0
+42,Male,Bachelor's (Type 2),10,5,31,47,85,72,Moderate,0
+35,Male,Bachelor's (Type 2),1,4,43,71,5,30,Conservative,0
+23,Male,Master's,15,3,28,48,51,25,Moderate,0
+49,Male,PhD,8,2,41,46,78,80,Conservative,1
+30,Male,Master's,15,2,26,55,87,55,Aggressive,1
+49,Male,Master's,14,2,4,64,20,33,Moderate,0
+49,Male,Bachelor's (Type 2),11,5,20,11,70,8,Moderate,0
+49,Female,Master's,0,1,23,68,92,61,Conservative,0
+50,Female,Master's,12,5,8,87,95,12,Aggressive,1
+43,Female,Bachelor's (Type 2),13,4,6,5,31,68,Conservative,0
+42,Female,Bachelor's (Type 2),8,1,28,88,52,40,Moderate,0
+28,Male,Master's,8,4,5,64,58,76,Conservative,1
+42,Female,Bachelor's (Type 1),7,1,16,24,68,0,Moderate,0
+22,Female,Master's,7,5,38,0,61,88,Aggressive,1
+38,Male,Bachelor's (Type 1),10,2,49,31,3,46,Conservative,0
+50,Male,Bachelor's (Type 2),13,3,37,2,85,3,Conservative,0
+27,Female,Master's,11,2,51,48,17,99,Moderate,0
+24,Female,Bachelor's (Type 2),0,5,36,18,98,62,Aggressive,1
+23,Male,Bachelor's (Type 2),10,1,16,59,80,51,Aggressive,1
+43,Female,Bachelor's (Type 2),7,2,35,28,55,9,Moderate,0
+50,Male,Master's,9,5,36,49,23,27,Aggressive,1
+25,Male,Bachelor's (Type 1),13,4,20,1,65,5,Moderate,0
+21,Male,PhD,2,3,2,72,12,26,Moderate,0
+39,Male,Bachelor's (Type 1),10,2,36,55,61,11,Moderate,0
+47,Female,PhD,6,1,2,16,53,61,Aggressive,1
+30,Male,PhD,10,4,33,59,14,51,Moderate,0
+23,Male,Bachelor's (Type 2),14,5,9,35,68,47,Moderate,0
+34,Female,Bachelor's (Type 2),0,3,29,60,2,66,Moderate,0
+25,Male,Bachelor's (Type 2),0,1,26,16,36,45,Moderate,0
+41,Female,Bachelor's (Type 2),15,5,2,48,36,96,Moderate,0
+36,Female,Bachelor's (Type 1),9,5,19,75,100,73,Moderate,1
+49,Female,Bachelor's (Type 1),12,2,31,59,2,94,Conservative,0
+43,Male,Bachelor's (Type 1),4,2,43,19,62,14,Moderate,0
+25,Female,Bachelor's (Type 2),4,1,45,49,34,70,Conservative,0
+38,Female,Bachelor's (Type 2),7,5,25,2,51,35,Moderate,0
+49,Male,Bachelor's (Type 2),6,2,37,42,86,13,Moderate,0
+44,Female,PhD,7,3,17,56,27,77,Aggressive,1
+21,Female,Bachelor's (Type 2),5,3,18,49,93,2,Moderate,0
+34,Female,Bachelor's (Type 2),5,5,11,67,17,66,Moderate,0
+30,Female,Bachelor's (Type 2),1,2,29,80,35,85,Aggressive,1
+27,Female,Master's,5,1,17,49,32,18,Moderate,0
+45,Male,PhD,4,1,5,36,63,98,Aggressive,1
+38,Female,Master's,12,1,35,45,25,75,Moderate,0
+32,Female,PhD,15,3,36,41,47,53,Moderate,0
+31,Male,Bachelor's (Type 1),2,2,19,14,39,68,Moderate,0
+24,Male,Master's,5,2,5,32,16,9,Conservative,0
+25,Male,Master's,7,3,22,79,39,32,Moderate,0
+45,Female,Bachelor's (Type 2),8,1,23,10,6,12,Moderate,0
+41,Male,PhD,0,1,34,19,56,98,Moderate,0
+23,Female,Bachelor's (Type 1),2,5,17,23,7,50,Conservative,0
+38,Female,Bachelor's (Type 2),2,4,35,63,55,31,Moderate,0
+39,Male,Bachelor's (Type 2),10,2,45,79,30,74,Moderate,0
+20,Male,Bachelor's (Type 2),7,2,13,93,58,23,Aggressive,1
+39,Female,Master's,0,2,50,97,57,34,Moderate,0
+36,Male,Bachelor's (Type 2),4,4,20,64,11,82,Aggressive,0
+31,Female,Bachelor's (Type 2),2,5,14,87,47,69,Moderate,0
+34,Male,Bachelor's (Type 2),1,4,22,87,30,39,Conservative,0
+20,Male,Master's,14,1,6,72,82,53,Moderate,1
+45,Male,Bachelor's (Type 1),7,1,7,85,62,43,Moderate,0
+33,Female,Bachelor's (Type 2),2,2,22,75,73,61,Moderate,0
+25,Male,PhD,6,3,39,16,38,98,Moderate,0
+24,Female,Master's,11,2,46,88,75,67,Moderate,1
+49,Female,Bachelor's (Type 2),10,3,34,91,19,32,Moderate,0
+30,Female,Master's,0,4,6,60,100,76,Aggressive,1
+50,Female,Master's,5,1,35,14,47,55,Aggressive,0
+23,Male,Master's,2,3,33,93,70,35,Moderate,0
+32,Female,Bachelor's (Type 2),7,4,41,50,53,53,Moderate,0
+30,Female,Bachelor's (Type 2),5,1,42,26,77,18,Aggressive,0
+22,Male,Bachelor's (Type 2),11,3,44,85,74,42,Moderate,0
+20,Female,Bachelor's (Type 2),1,2,22,73,70,11,Aggressive,1
+25,Male,Bachelor's (Type 2),5,2,36,60,28,10,Aggressive,0
+37,Female,Bachelor's (Type 1),6,2,14,57,73,69,Moderate,0
+43,Male,Bachelor's (Type 2),4,4,51,30,92,11,Moderate,0
+29,Female,Bachelor's (Type 2),2,2,10,90,72,90,Moderate,0
+24,Male,Bachelor's (Type 2),3,5,2,11,99,40,Moderate,0
+42,Female,Master's,3,1,8,45,47,24,Conservative,0
+29,Female,Bachelor's (Type 2),5,4,40,30,73,2,Moderate,0
+31,Male,Bachelor's (Type 1),9,2,23,31,82,2,Aggressive,1
+21,Male,Master's,0,1,23,31,55,83,Moderate,0
+32,Male,Bachelor's (Type 1),10,3,49,98,94,27,Aggressive,1
+27,Male,Master's,3,2,47,52,16,22,Conservative,0
+21,Female,Master's,9,1,17,60,8,47,Aggressive,1
+39,Female,Bachelor's (Type 2),12,5,11,45,96,66,Moderate,0
+20,Male,Master's,3,3,43,84,33,41,Aggressive,1
+50,Female,Bachelor's (Type 2),9,5,46,73,44,87,Conservative,0
+24,Male,Bachelor's (Type 2),15,1,28,79,87,39,Moderate,0
+28,Male,Bachelor's (Type 1),0,5,32,6,8,5,Conservative,0
+36,Female,Bachelor's (Type 2),8,1,14,3,6,19,Aggressive,0
+28,Female,PhD,3,1,41,90,15,10,Aggressive,1
+30,Female,Bachelor's (Type 2),6,5,33,51,18,95,Aggressive,1
+34,Female,Bachelor's (Type 2),11,1,26,88,5,26,Conservative,0
+43,Female,Bachelor's (Type 2),13,2,4,30,10,20,Conservative,0
+25,Female,Bachelor's (Type 2),2,1,47,74,75,12,Aggressive,1
+42,Female,Bachelor's (Type 1),9,4,32,83,60,85,Aggressive,1
+22,Male,Bachelor's (Type 2),11,1,11,35,41,34,Moderate,0
+49,Male,Master's,2,4,31,53,12,46,Aggressive,0
+50,Male,Bachelor's (Type 2),13,1,35,53,11,85,Aggressive,1
+36,Male,Bachelor's (Type 2),7,1,27,16,84,27,Aggressive,1
+24,Male,Bachelor's (Type 1),7,5,37,74,73,20,Aggressive,1
+49,Female,Bachelor's (Type 2),10,2,30,29,19,17,Aggressive,1
+47,Male,Master's,11,2,48,98,49,30,Aggressive,0
+31,Male,Bachelor's (Type 1),0,3,4,21,35,59,Moderate,1
+37,Male,Bachelor's (Type 1),9,5,6,42,91,36,Conservative,1
+33,Male,Bachelor's (Type 2),1,5,10,26,87,20,Moderate,1
+40,Male,Master's,15,2,36,36,68,13,Moderate,0
+43,Male,Bachelor's (Type 2),7,5,33,45,36,88,Aggressive,1
+30,Male,Bachelor's (Type 2),0,2,46,34,11,90,Moderate,1
+28,Female,Master's,14,5,38,3,98,59,Moderate,1
+21,Female,Bachelor's (Type 2),11,1,26,79,39,22,Moderate,0
+31,Male,Master's,7,2,51,79,53,94,Aggressive,1
+22,Female,Master's,7,2,14,84,1,28,Conservative,0
+22,Female,Bachelor's (Type 2),15,4,43,25,49,46,Aggressive,0
+20,Female,Bachelor's (Type 2),1,5,22,99,40,29,Moderate,0
+27,Female,Bachelor's (Type 1),3,5,33,18,44,89,Conservative,0
+41,Male,Bachelor's (Type 2),5,2,37,80,8,83,Moderate,1
+47,Female,PhD,11,1,33,44,61,37,Moderate,0
+48,Female,Bachelor's (Type 2),10,1,8,25,85,82,Conservative,0
+27,Female,Bachelor's (Type 2),8,1,23,21,46,26,Moderate,1
+30,Male,Master's,14,5,29,57,4,88,Aggressive,0
+28,Male,Bachelor's (Type 2),15,4,43,62,75,86,Conservative,0
+24,Male,Bachelor's (Type 1),7,2,23,27,0,92,Aggressive,0
+33,Male,Bachelor's (Type 2),11,3,47,64,43,14,Conservative,0
+47,Male,Bachelor's (Type 2),14,4,23,43,21,58,Aggressive,0
+49,Male,Master's,7,3,28,99,37,2,Moderate,0
+22,Male,Bachelor's (Type 1),6,4,41,42,18,9,Moderate,1
+40,Female,Bachelor's (Type 2),13,1,30,36,79,78,Conservative,1
+24,Female,Bachelor's (Type 2),12,5,49,65,30,79,Moderate,1
+24,Female,Bachelor's (Type 2),8,3,34,16,66,16,Aggressive,1
+38,Male,Bachelor's (Type 2),14,4,27,39,86,82,Moderate,0
+46,Male,Bachelor's (Type 2),1,5,2,37,41,10,Aggressive,0
+33,Male,Bachelor's (Type 2),2,3,22,84,81,47,Moderate,0
+45,Male,PhD,9,2,16,60,25,4,Conservative,1
+49,Male,Bachelor's (Type 2),7,4,38,8,12,68,Moderate,1
+23,Female,Bachelor's (Type 1),13,2,11,76,57,63,Moderate,0
+44,Female,Bachelor's (Type 2),5,1,11,74,17,13,Aggressive,0
+32,Male,Master's,9,2,10,60,66,49,Moderate,1
+29,Male,Master's,8,2,7,79,86,25,Moderate,1
+44,Male,Bachelor's (Type 1),9,4,17,15,2,71,Moderate,1
+37,Male,PhD,3,1,45,1,54,68,Aggressive,1
+27,Female,Bachelor's (Type 2),15,2,40,71,88,6,Moderate,0
+27,Male,Bachelor's (Type 1),7,5,38,42,90,15,Aggressive,1
+26,Male,Bachelor's (Type 1),9,3,41,41,57,54,Moderate,1
+27,Male,Bachelor's (Type 1),2,2,14,76,62,77,Aggressive,0
+33,Male,Master's,2,1,45,56,90,100,Conservative,0
+38,Female,Bachelor's (Type 1),7,2,8,80,51,55,Aggressive,0
+48,Male,Bachelor's (Type 1),4,3,18,87,88,3,Moderate,1
+25,Male,Master's,2,1,30,66,23,99,Aggressive,1
+20,Female,Bachelor's (Type 2),9,4,6,29,71,47,Moderate,1
+42,Female,Bachelor's (Type 1),10,1,38,12,8,16,Moderate,1
+50,Female,Bachelor's (Type 1),15,4,20,18,36,35,Moderate,0
+34,Male,Bachelor's (Type 1),0,1,40,6,93,69,Aggressive,0
+20,Male,Bachelor's (Type 2),14,3,26,8,82,79,Moderate,1
+44,Female,Bachelor's (Type 2),2,3,10,82,52,92,Aggressive,1
+36,Female,Bachelor's (Type 1),11,1,38,53,79,99,Aggressive,1
+20,Female,Bachelor's (Type 1),8,2,14,85,23,37,Moderate,0
+34,Female,Master's,4,3,26,81,20,100,Aggressive,1
+42,Female,Bachelor's (Type 2),11,4,5,60,99,61,Aggressive,0
+21,Female,Bachelor's (Type 2),9,4,32,86,39,47,Conservative,1
+33,Male,Bachelor's (Type 2),14,5,34,1,61,9,Conservative,0
+40,Male,Bachelor's (Type 2),1,4,20,49,69,35,Moderate,0
+27,Male,Bachelor's (Type 2),6,5,49,74,68,28,Aggressive,1
+27,Female,Bachelor's (Type 2),14,1,45,30,13,77,Aggressive,0
+38,Female,Bachelor's (Type 2),1,1,36,32,41,3,Moderate,0
+26,Female,PhD,3,1,37,77,49,43,Aggressive,1
+38,Female,Bachelor's (Type 1),11,2,14,79,60,55,Conservative,0
+25,Female,Master's,6,2,34,10,3,41,Aggressive,1
+25,Female,Bachelor's (Type 1),3,5,11,32,71,99,Conservative,0
+22,Male,Master's,6,4,8,6,87,12,Moderate,0
+26,Male,Bachelor's (Type 2),15,4,51,30,74,45,Moderate,0
+38,Female,Master's,6,1,32,47,16,81,Aggressive,0
+27,Male,Bachelor's (Type 1),15,3,23,46,84,32,Conservative,1
+29,Female,Bachelor's (Type 2),0,2,15,77,56,20,Aggressive,1
+39,Male,Bachelor's (Type 2),5,2,31,91,89,79,Moderate,1
+34,Female,Master's,8,1,3,52,47,78,Conservative,0
+34,Female,Bachelor's (Type 2),1,2,6,79,43,56,Aggressive,0
+48,Male,Bachelor's (Type 2),13,1,3,18,44,68,Moderate,1
+20,Male,Bachelor's (Type 2),2,5,26,80,90,69,Moderate,1
+39,Female,Bachelor's (Type 2),9,4,31,89,79,66,Moderate,1
+49,Female,Bachelor's (Type 2),4,3,4,5,89,47,Moderate,1
+26,Male,Bachelor's (Type 1),8,4,37,48,32,75,Moderate,0
+46,Male,PhD,3,4,13,72,30,99,Moderate,1
+23,Female,Master's,0,5,35,49,46,32,Moderate,0
+48,Male,PhD,3,2,50,80,5,35,Moderate,1
+25,Female,Bachelor's (Type 2),5,3,36,94,71,32,Aggressive,0
+44,Female,Master's,4,2,45,11,70,30,Conservative,1
+20,Female,Master's,13,4,48,22,33,20,Conservative,1
+48,Female,Bachelor's (Type 2),12,1,25,53,52,26,Moderate,0
+24,Male,Bachelor's (Type 2),0,4,36,68,13,90,Moderate,0
+46,Male,Bachelor's (Type 2),3,2,44,99,15,71,Moderate,1
+42,Male,Master's,5,4,19,58,42,100,Moderate,0
+20,Male,Bachelor's (Type 2),12,1,14,35,72,61,Moderate,1
+49,Male,Bachelor's (Type 1),14,5,48,2,73,95,Aggressive,0
+23,Male,Bachelor's (Type 2),9,2,37,57,80,25,Moderate,1
+41,Male,PhD,9,4,12,87,11,65,Aggressive,1
+21,Female,Master's,13,2,23,54,69,11,Aggressive,1
+29,Male,PhD,3,5,41,56,18,21,Moderate,1
+24,Male,Bachelor's (Type 2),14,4,28,16,40,16,Moderate,1
+46,Female,Bachelor's (Type 2),13,4,33,38,52,6,Moderate,1
+29,Male,Bachelor's (Type 1),8,2,39,89,28,67,Moderate,1
+20,Male,Bachelor's (Type 1),4,2,32,67,69,36,Conservative,1
+41,Female,Bachelor's (Type 1),7,1,28,54,58,37,Moderate,0
+25,Male,Bachelor's (Type 2),8,5,38,44,88,95,Moderate,0
+32,Male,Bachelor's (Type 1),9,1,37,75,63,10,Aggressive,0
+50,Male,Bachelor's (Type 2),4,4,32,0,23,0,Aggressive,1
+34,Female,PhD,5,2,19,20,88,24,Moderate,1
+23,Male,Bachelor's (Type 2),0,4,21,82,15,41,Moderate,1
+32,Male,Master's,10,4,50,20,51,51,Moderate,0
+43,Female,Bachelor's (Type 2),15,3,7,51,79,23,Moderate,0
+39,Male,Bachelor's (Type 2),11,3,14,81,5,52,Moderate,0
+43,Female,Bachelor's (Type 2),14,4,26,42,36,55,Aggressive,0
+34,Female,Bachelor's (Type 1),6,2,43,51,84,62,Aggressive,0
+48,Male,Bachelor's (Type 2),3,4,9,66,3,80,Conservative,1
+27,Female,Bachelor's (Type 2),10,3,15,43,97,7,Moderate,0
+24,Female,Bachelor's (Type 1),1,2,4,31,91,58,Aggressive,1
+48,Male,Bachelor's (Type 2),4,4,36,9,37,44,Moderate,1
+34,Female,Bachelor's (Type 2),11,5,13,63,40,26,Moderate,1
