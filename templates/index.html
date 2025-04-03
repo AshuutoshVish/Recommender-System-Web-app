@@ -5,12 +5,68 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Candidate Recommender</title>
     <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background: #f4f4f4; }
-        .container { width: 60%; margin: auto; overflow: hidden; background: #fff; padding: 20px; box-shadow: 0 0 10px #ccc; }
-        label { display: block; margin-bottom: 5px; }
-        input, select, button { width: 100%; padding: 10px; margin-bottom: 10px; }
-        button { background: #28a745; color: #fff; border: none; cursor: pointer; }
-        button:hover { background: #218838; }
+        body { 
+            font-family: Arial, sans-serif; 
+            line-height: 1.6; 
+            margin: 0; 
+            padding: 0; 
+            background: #f4f4f4; 
+        }
+        .container { 
+            width: 90%; 
+            max-width: 600px; 
+            margin: auto; 
+            overflow: hidden; 
+            background: #fff; 
+            padding: 20px; 
+            box-shadow: 0 0 10px #ccc; 
+            border-radius: 8px;
+        }
+        label { 
+            display: block; 
+            margin-bottom: 5px; 
+            font-weight: bold;
+        }
+        input, select, button { 
+            width: 100%; 
+            padding: 10px; 
+            margin-bottom: 10px; 
+            border: 1px solid #ccc; 
+            border-radius: 5px;
+            box-sizing: border-box; /* Ensures elements don't exceed their container width */
+        }
+        button { 
+            background: #28a745; 
+            color: #fff; 
+            border: none; 
+            cursor: pointer; 
+            font-size: 16px;
+        }
+        button:hover { 
+            background: #218838; 
+        }
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 10px;
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 480px) {
+            .container {
+                width: 95%;
+                padding: 15px;
+            }
+            button {
+                font-size: 14px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -26,15 +82,15 @@
             <option value="Female">Female</option>
         </select>
 
-        <label for="EducationLevel">EducationLevel:</label>
+        <label for="EducationLevel">Education Level:</label>
         <select id="EducationLevel" name="EducationLevel" required>
-            <option value="Bachelor's (Type 1)	">Bachelors Type 1</option>
-            <option value="Bachelor's (Type 2)	">Bachelors Type 2</option>
+            <option value="Bachelor's (Type 1)">Bachelors Type 1</option>
+            <option value="Bachelor's (Type 2)">Bachelors Type 2</option>
             <option value="Master's">Masters</option>
             <option value="PhD">PhD</option>
         </select>
 
-        <label for="ExperienceYears">ExperienceYears:</label>
+        <label for="ExperienceYears">Experience Years:</label>
         <input type="number" id="ExperienceYears" name="ExperienceYears" required>
 
         <label for="PreviousCompanies">Previous Companies:</label>
@@ -66,7 +122,6 @@
         </select>
 
         <button type="submit">Recommend Candidates</button>
-
     </form>
     <a href="/home">Back to Home</a>
 </div>
