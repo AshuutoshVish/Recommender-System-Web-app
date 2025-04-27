@@ -1,5 +1,6 @@
 Recommender System Web App
-A web application that provides personalized recommendations using machine learning. Built with Flask, Python, and Docker, this app predicts recommendations based on user preferences and historical data.
+A web application that provides personalized recommendations using machine learning. Built with Flask, Python, and Docker.
+This app predicts recommendations based on user preferences and historical data.
 
 🚀 Features
 ✅ Personalized recommendations
@@ -9,6 +10,6 @@ A web application that provides personalized recommendations using machine learn
 
 🛠️ Tech Stack
 Backend: Flask, Python
-Machine Learning: Pytorch, scikit-learn, NumPy, Pandas
+Deep Learning and Machine Learning: Pytorch, scikit-learn, NumPy, Pandas, Tensors
 Frontend: HTML, CSS, JavaScript
 Containerization: Docker
